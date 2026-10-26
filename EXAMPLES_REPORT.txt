@@ -1,0 +1,102 @@
+Examples 1-4 of the paper: Python code and Gurobi against the hand computation
+Leaves: v1..v7 as in Figure 1; edges e1..e14; sigma = 60
+
+====================================================================================================
+EXAMPLE 1  (reduction, Assumption 1, Algorithm 1)
+====================================================================================================
+  Q1(l,c)                                      code = 123                          hand = 123                          OK
+  Q2(l,c)                                      code = 99                           hand = 99                           OK
+  B^l (breakpoints of C_1^-)                   code = {60, 86, 109, 110, 123}      hand = {60, 86, 109, 110, 123}      OK
+  E^>(T2)                                      code = {9, 10, 12, 13}              hand = {9, 10, 12, 13}              OK
+  B(e9)                                        code = {99, 107}                    hand = {99, 107}                    OK
+  B(e10)                                       code = {99, 101}                    hand = {99, 101}                    OK
+  B(e12)                                       code = {99, 109, 110, 123}          hand = {99, 109, 110, 123}          OK
+  B(e13)                                       code = {99, 109, 110, 123}          hand = {99, 109, 110, 123}          OK
+  F^-(tau,e) = C_1^-(tau) + capacity cost on e, at every candidate:
+     e9   tau = 99         C_1^- = 425          + 0            = 425
+     e9   tau = 107        C_1^- = 209          + 210          = 419
+     e10  tau = 99         C_1^- = 425          + 0            = 425
+     e10  tau = 101        C_1^- = 371          + 660          = 1031
+     e12  tau = 99         C_1^- = 425          + 0            = 425
+     e12  tau = 109        C_1^- = 155          + 272          = 427
+     e12  tau = 110        C_1^- = 130          + 287.692308   = 417.692308
+     e12  tau = 123        C_1^- = 0            + 418.461538   = 418.461538
+     e13  tau = 99         C_1^- = 425          + 0            = 425
+     e13  tau = 109        C_1^- = 155          + 494          = 649
+     e13  tau = 110        C_1^- = 130          + 511.538462   = 641.538462
+     e13  tau = 123        C_1^- = 0            + 657.692308   = 657.692308
+  optimal tau                                  code = 110                          hand = 110                          OK
+  optimal edge                                 code = e12                          hand = e12                          OK
+  F^-* = 5430/13                               code = 417.692308                   hand = 417.692308                   OK
+====================================================================================================
+EXAMPLE 2  (reduction, Assumption 2, Algorithm 2)
+====================================================================================================
+  e*                                           code = e1                           hand = e1                           OK
+  l_0                                          code = 84                           hand = 84                           OK
+  lower end of the interval                    code = 99                           hand = 99                           OK
+  upper end of the interval                    code = 114                          hand = 114                          OK
+  B^c (inside the interval)                    code = {104, 114}                   hand = {104, 114}                   OK
+  G^-(tau) = D_1^-(tau) + beta(e*)(c(e*) - sigma/(tau - l_0)) on B = {99, 104, 109, 114}:
+     tau =   99   D_1^- = 425          G^- = 1325
+     tau =  104   D_1^- = 290          G^- = 1340
+     tau =  109   D_1^- = 230          G^- = 1370
+     tau =  114   D_1^- = 180          G^- = 1380
+  optimal tau                                  code = 99                           hand = 99                           OK
+  G^-* = 1325                                  code = 1325                         hand = 1325                         OK
+====================================================================================================
+EXAMPLE 3  (augmentation, Assumption 1, Algorithm 3)
+====================================================================================================
+  L_1(e1)                                      code = 93                           hand = 93                           OK
+  L_1(e2)                                      code = 93                           hand = 93                           OK
+  L_1(e3)                                      code = 90                           hand = 90                           OK
+  L_1(e4)                                      code = 93                           hand = 93                           OK
+  L_1(e5)                                      code = 51                           hand = 51                           OK
+  L_1(e6)                                      code = 51                           hand = 51                           OK
+  B^c                                          code = {57, 71, 99, 100, 113, 123}  hand = {57, 71, 99, 100, 113, 123}  OK
+  Q1(l, c + ybar+)                             code = 113                          hand = 113                          OK
+  Q2(l + xbar+, c)                             code = 148                          hand = 148                          OK
+  C_1^+(118) = 6000/25 - 200                   code = 40                           hand = 40                           OK
+  F_v5(113)  (v5 infeasible)                   code = infeasible                   hand = infeasible                   OK
+  F_v5(123)  (v5 infeasible)                   code = infeasible                   hand = infeasible                   OK
+  F_v4(113)                                    code = 795                          hand = 795                          OK
+  F_v7(113)                                    code = 853.5                        hand = 853.5                        OK
+  F_v6(113)                                    code = 170                          hand = 170                          OK
+  F_v6(115)                                    code = 152.727273                   hand = 152.727273                   OK
+  F_v6(123)                                    code = 144                          hand = 144                          OK
+  optimal leaf                                 code = v6                           hand = v6                           OK
+  tau+* = 93 + 5 sqrt(30)                      code = 120.386128                   hand = 120.386128                   OK
+  F+* = 80 sqrt(30) - 296                      code = 142.178046                   hand = 142.178046                   OK
+====================================================================================================
+EXAMPLE 4  (augmentation, Assumption 2, Algorithm 4)
+====================================================================================================
+  e*                                           code = e1                           hand = e1                           OK
+  c(P_v*v4)  (< c(e*) = 10)                    code = 2                            hand = 2                            OK
+  c(P_v*v5)  (< c(e*) = 10)                    code = 3                            hand = 3                            OK
+  c(P_v*v6)  (< c(e*) = 10)                    code = 4                            hand = 4                            OK
+  c(P_v*v7)  (< c(e*) = 10)                    code = 8                            hand = 8                            OK
+  Algorithm 4                                  code = infeasible                   hand = infeasible                   OK
+====================================================================================================
+GUROBI on the exact MIQCP model of the full IQCP
+====================================================================================================
+-- Ex1: reduction, full model; optimum = Example 1 (5430/13)
+  Gurobi optimum                               code = 417.692308                   hand = 417.692308                   OK
+     Gurobi:  x = {'e4': 13.0}   y = {'e12': 1.692308}
+     hand:    x = {'e4': 13.0}   y = {'e12': 1.692308}
+     same modification as by hand
+     quickest values after the modification: v1 = 110, v2 = 110, v3 = 71, v4 = 77, v5 = 61, v6 = 110, v7 = 74.5
+-- Ex2: reduction, Assumption 2 w.r.t. T1 forced = Example 2
+  Gurobi optimum                               code = 1325                         hand = 1325                         OK
+     Gurobi:  x = {'e1': 10.0, 'e3': 1.0, 'e4': 14.0}   y = {'e1': 6.0}
+     hand:    x = {'e1': 10.0, 'e3': 1.0, 'e4': 14.0}   y = {'e1': 6.0}
+     same modification as by hand
+     quickest values after the modification: v1 = 99, v2 = 99, v3 = 61, v4 = 77, v5 = 61, v6 = 99, v7 = 74.5
+-- Ex3: augmentation, full model; optimum = Example 3
+  Gurobi optimum                               code = 142.178046                   hand = 142.178046                   OK
+     Gurobi:  x = {'e12': 5.386128, 'e13': 16.0}   y = {'e4': 0.19089}
+     hand:    x = {'e13': 16.0, 'e12': 5.386128}   y = {'e4': 0.19089}
+     same modification as by hand
+     quickest values after the modification: v1 = 110, v2 = 120.386128, v3 = 71, v4 = 77, v5 = 61, v6 = 120.386128, v7 = 74.5
+-- Ex4: augmentation, Assumption 2 w.r.t. T1 forced = Example 4
+  Gurobi optimum                               code = infeasible                   hand = infeasible                   OK
+====================================================================================================
+ALL VALUES AGREE WITH THE HAND COMPUTATION

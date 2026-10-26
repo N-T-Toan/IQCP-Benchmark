@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Mean running time in milliseconds (wall clock, mean over 10 instances per entry) and exponent $p$ of a least-squares fit $t\approx C n^{p}$. Columns give the number of vertices $n$; for the family \emph{catA2} they are 41, 81, 161, 321, 641, 1281.}
+\label{tab:runtimes}
+\begin{tabular}{llrrrrrrrr}
+\hline
+Algorithm & Family & $n_{1}$ & $n_{2}$ & $n_{3}$ & $n_{4}$ & $n_{5}$ & $n_{6}$ & $n_{7}$ & $p$ \\
+& & 101 & 201 & 401 & 801 & 1601 & 3201 & 6401 & \\
+\hline
+Alg.~\ref{alg1} & \emph{rrt} & 0.70 & 1.48 & 2.66 & 5.12 & 12.3 & 23.5 & 57.9 & 1.11 \\
+Alg.~\ref{alg1} & \emph{cat} & 2.80 & 7.45 & 28.1 & 59.0 & 112 & 301 & 808 & 1.21 \\
+Alg.~\ref{alg:A2} & \emph{rrt-hc} & 11.0 & 24.6 & 58.7 & 176 & 297 & 256 & 7\,810 & 1.47 \\
+Alg.~\ref{alg:A2} & \emph{cat-hc} & 20.1 & 34.1 & 73.4 & 157 & 359 & 627 & 1\,057 & 0.97 \\
+Alg.~\ref{alg:A2} & \emph{catA2} & 5.30 & 25.6 & 151 & 819 & 4\,082 & 25\,952 &  & 2.46 \\
+Alg.~\ref{alg3} & \emph{rrt} & 12.2 & 17.9 & 84.7 & 215 & 684 & 2\,104 & 9\,622 & 1.70 \\
+Alg.~\ref{alg3} & \emph{cat} & 18.6 & 38.3 & 106 & 263 & 283 & 1\,661 & 4\,719 & 1.36 \\
+Alg.~\ref{alg4} & \emph{rrt-hc} & 60.7 & 128 & 262 & 737 & 2\,132 & 7\,344 & 22\,446 & 1.62 \\
+Alg.~\ref{alg4} & \emph{cat-hc} & 75.3 & 133 & 387 & 1\,136 & 3\,702 & 15\,253 & 41\,642 & 1.73 \\
+\hline
+\end{tabular}
+\end{table}

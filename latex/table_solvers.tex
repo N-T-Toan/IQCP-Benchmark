@@ -1,0 +1,30 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Our algorithms against Gurobi on the exact MIQCP (time limit 600\,s, all families pooled). Times are means; \#opt: runs Gurobi solved to proven optimality, and its time is the mean over these runs; ratio: median of Gurobi's time divided by ours over these runs; gap: largest final MIP gap of the runs that reached the time limit; $\Delta$: largest relative deviation between Gurobi's optimum and ours.}
+\label{tab:solvers}
+\begin{tabular}{lrrr|rrrrr}
+\hline
+ & & & Ours & \multicolumn{5}{c}{Gurobi (MIQCP)} \\
+Setting & $n$ & runs & [ms] & \#opt & [s] & ratio & gap & $\Delta$ \\
+\hline
+Reduction & 17 & 20 & 0.99 & 20/20 & 0.06 & 66 & -- & $3.2\cdot 10^{-12}$ \\
+ & 33 & 20 & 2.86 & 20/20 & 0.10 & 44 & -- & $5.1\cdot 10^{-10}$ \\
+ & 65 & 20 & 4.98 & 20/20 & 0.22 & 67 & -- & $2.6\cdot 10^{-10}$ \\
+ & 129 & 20 & 16.4 & 20/20 & 0.46 & 39 & -- & $9.5\cdot 10^{-10}$ \\
+ & 257 & 20 & 22.8 & 20/20 & 1.04 & 55 & -- & $1.5\cdot 10^{-9}$ \\
+ & 513 & 20 & 71.2 & 20/20 & 3.38 & 56 & -- & $7.8\cdot 10^{-9}$ \\
+ & 1025 & 20 & 123 & 20/20 & 10.34 & 87 & -- & $5.7\cdot 10^{-8}$ \\
+ & 2049 & 20 & 231 & 20/20 & 28.89 & 147 & -- & $1.1\cdot 10^{-8}$ \\
+\hline
+Augmentation & 17 & 20 & 6.48 & 20/20 & 0.04 & 7 & -- & $5.2\cdot 10^{-8}$ \\
+ & 33 & 20 & 14.3 & 20/20 & 0.07 & 5 & -- & $3.5\cdot 10^{-8}$ \\
+ & 65 & 20 & 36.1 & 20/20 & 0.12 & 4 & -- & $5.9\cdot 10^{-9}$ \\
+ & 129 & 20 & 64.1 & 20/20 & 0.24 & 4 & -- & $2.7\cdot 10^{-9}$ \\
+ & 257 & 20 & 203 & 20/20 & 0.41 & 2 & -- & $5.8\cdot 10^{-8}$ \\
+ & 513 & 20 & 436 & 20/20 & 0.97 & 2 & -- & $1.3\cdot 10^{-9}$ \\
+ & 1025 & 20 & 1\,196 & 20/20 & 2.72 & 3 & -- & $5.1\cdot 10^{-8}$ \\
+ & 2049 & 20 & 3\,298 & 20/20 & 6.90 & 2 & -- & $4.2\cdot 10^{-7}$ \\
+\hline
+\end{tabular}
+\end{table}

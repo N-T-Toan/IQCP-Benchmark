@@ -1,0 +1,161 @@
+\section{Computational results}
+\label{sec:comp}
+% Every number to be filled in is written as \textbf{??}.  The comment
+% "% [Name]" next to it is the name printed by  python make_tables.py ,
+% which lists all values at the end of its output.
+
+Since no other method is known for the IQCP with simultaneous modification of
+lead times and capacities, we compare our algorithms with the general-purpose
+approach of solving a mathematical programming model of the problem, and we
+measure how their running times grow with the size of the tree.
+
+\subsection{Setting}
+
+Algorithms~\ref{alg1}, \ref{alg:A2}, \ref{alg3} and~\ref{alg4} were
+implemented in Python~\textbf{??} % [RPython]
+as stated, with $\varepsilon=10^{-6}$ in the augmentation setting; the
+implementation reproduces Examples~\ref{exp1}--\ref{exp4} exactly. All runs
+used a single core of an \textbf{??} % [RCpu]
+with \textbf{??}\,GB of memory. % [RRam]
+The code and instances are available at
+\texttt{https://github.com/XXXX/iqcp-benchmark}. % repository URL
+
+All instances use $\sigma=60$, lead times in $\{5,\dots,40\}$, capacities in
+$\{1,\dots,15\}$, unit costs $\alpha^\pm\in\{5,\dots,40\}$ and
+$\beta^\pm\in\{50,\dots,300\}$, $\bar x^-=\ell\,U(0.5,1)$,
+$\bar y^-=c\,U(0.3,0.9)$, $\bar x^+=\ell\,U(0.5,2)$ and $\bar y^+=c\,U(1,4)$ on
+$T_1$ ($\bar y^+=0$ on $T_2$); instances in which $v^*$ is already a center are
+redrawn. We use random recursive trees (\emph{rrt}, paths of length
+$\Theta(\log n)$) and caterpillars with two spines leaving $v^*$ (\emph{cat},
+paths of length $\Theta(n)$). In the variants \emph{rrt-hc} and \emph{cat-hc}
+all capacities of $T_2$ exceed those of $T_1$, which by
+Lemma~\ref{lem:filter} is the configuration in which
+Assumption~\ref{assumption2} is attainable. The family \emph{catA2} is the
+worst case of Algorithm~\ref{alg:A2}: the spine capacities of $T_1$ decrease
+strictly, so that $\mathcal B^c$ has $\Theta(n)$ elements in
+$[\underline\tau,\overline\tau]$.
+
+\subsection{Comparison with mathematical programming solvers}
+\label{subsec:comp-gurobi}
+
+We model the full IQCP without using any structural result of this paper:
+all edges may be modified and any branch of $v^*$ may become the primary
+subtree. With $w(e)=\sigma/\tilde c(e)$, the quickest distance of a leaf is
+$\tilde\ell(P_{v^*t})+\max_{e\in P_{v^*t}}w(e)$; the maxima are modelled with
+binary variables and Theorem~\ref{theo1} with binaries selecting the
+assumption, the primary branch and $t^{**}$. Imposing
+$\tilde c(e)\,w(e)=\sigma$ exactly gives a nonconvex mixed-integer
+quadratically constrained programme (MIQCP), which we solve to global
+optimality with Gurobi~\textbf{??}. % [RGurobi]
+Since the bilinear constraints cannot be handled exactly by linear
+mixed-integer solvers, Gurobi is the natural exact benchmark. It ran on one
+thread with a time limit of \textbf{??}\,s, % [RTimeLimit]
+on \textbf{??} instances per family and size, in both settings. % [RRepsSolv]
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{Our algorithms against Gurobi on the exact MIQCP (time limit
+\textbf{??}\,s, all families pooled). Times are means; \#opt: runs Gurobi
+solved to proven optimality, and its time is the mean over these runs; ratio:
+median of Gurobi's time divided by ours over these runs; gap: largest final
+MIP gap of the runs that reached the time limit; $\Delta$: largest relative
+deviation between Gurobi's optimum and ours.}
+\label{tab:solvers}
+% Copy the rows from VALUES_FOR_PAPER.txt (or latex/table_solvers.tex).
+\begin{tabular}{lrrr|rrrrr}
+\hline
+ & & & Ours & \multicolumn{5}{c}{Gurobi (MIQCP)} \\
+Setting & $n$ & runs & [ms] & \#opt & [s] & ratio & gap & $\Delta$ \\
+\hline
+Reduction    &   17 & & & & & & & \\
+             &   33 & & & & & & & \\
+             &   65 & & & & & & & \\
+             &  129 & & & & & & & \\
+             &  257 & & & & & & & \\
+             &  513 & & & & & & & \\
+             & 1025 & & & & & & & \\
+             & 2049 & & & & & & & \\
+\hline
+Augmentation &   17 & & & & & & & \\
+             &   33 & & & & & & & \\
+             &   65 & & & & & & & \\
+             &  129 & & & & & & & \\
+             &  257 & & & & & & & \\
+             &  513 & & & & & & & \\
+             & 1025 & & & & & & & \\
+             & 2049 & & & & & & & \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[htbp]
+\centering
+% Replace the box by  \includegraphics[width=\textwidth]{iqcp_scaling.pdf}
+% after uploading latex/iqcp_scaling.pdf.
+\fbox{\parbox[c][5cm][c]{0.9\textwidth}{\centering Figure: iqcp\_scaling.pdf}}
+\caption{(a) Running time of the four algorithms (colour: algorithm, line
+style: family; reference slopes $2$ and $3$). (b) Our algorithms and Gurobi on
+the MIQCP (solid: reduction, dashed: augmentation; dotted: time limit).
+(c) Evaluations of $F_i^{+}$ in Algorithm~\ref{alg3} against
+$\log_{10}(1/\varepsilon)$, $n=801$.}
+\label{fig:scaling}
+\end{figure}
+
+Table~\ref{tab:solvers} and Figure~\ref{fig:scaling}(b) summarise the
+comparison. On all \textbf{??} runs that Gurobi solved to optimality, % [RgrbOptimal]
+our value coincides with Gurobi's up to a relative deviation of
+\textbf{??}, % [RgrbMaxDev]
+including the \textbf{??} runs whose optimum is attained under % [RgrbAtwoWins]
+Assumption~\ref{assumption2}. Gurobi solved all runs up to
+$n=\textbf{??}$ (reduction) and $n=\textbf{??}$ (augmentation), % [RgrbAllSolvedRed], [RgrbAllSolvedAug]
+where it was slower than our algorithms by median factors of
+\textbf{??} and \textbf{??}, respectively; % [RspeedupRed], [RspeedupAug]
+on larger trees it reached the time limit with final gaps of up to
+\textbf{??}\,\%, % [RgrbMaxGap]
+while our algorithms solved every instance exactly in a fraction of a second.
+
+\subsection{Growth with the size of the instance}
+\label{subsec:comp-scaling}
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{Mean running time in milliseconds (\textbf{??} instances per entry) % [RReps]
+and exponent $p$ of a least-squares fit $t\approx Cn^{p}$. For \emph{catA2}
+the sizes are $41,81,161,321,641,1281$.}
+\label{tab:runtimes}
+% Copy the rows from latex/table_runtimes.tex, or fill in by hand.
+\begin{tabular}{ll rrrrrrr r}
+\hline
+Algorithm & Family & \multicolumn{7}{c}{$n$} & $p$ \\
+& & 101 & 201 & 401 & 801 & 1601 & 3201 & 6401 & \\
+\hline
+Alg.~\ref{alg1}  & \emph{rrt}    & & & & & & & & \\
+Alg.~\ref{alg1}  & \emph{cat}    & & & & & & & & \\
+Alg.~\ref{alg:A2} & \emph{rrt-hc} & & & & & & & & \\
+Alg.~\ref{alg:A2} & \emph{cat-hc} & & & & & & & & \\
+Alg.~\ref{alg:A2} & \emph{catA2}  & & & & & & & & \\
+Alg.~\ref{alg3}  & \emph{rrt}    & & & & & & & & \\
+Alg.~\ref{alg3}  & \emph{cat}    & & & & & & & & \\
+Alg.~\ref{alg4}  & \emph{rrt-hc} & & & & & & & & \\
+Alg.~\ref{alg4}  & \emph{cat-hc} & & & & & & & & \\
+\hline
+\end{tabular}
+\end{table}
+
+Table~\ref{tab:runtimes} and Figure~\ref{fig:scaling}(a) report running times
+up to $n=6401$ with the exponent $p$ of a fit $t\approx Cn^{p}$. Apart from
+\emph{catA2}, the exponents lie between \textbf{??} and \textbf{??}, % [RexpMin], [RexpMax]
+below the worst-case bounds of Sections~\ref{sec3} and~\ref{sec4}, because on
+random trees the dynamic programmes carry far fewer than $n$ breakpoints and
+few leaves pass the screening of \eqref{eq:prefix}. On \emph{catA2} the
+number of evaluations of \eqref{eq:D1} grows linearly and the exponent is
+\textbf{??} against the bound $O(n^3)$; % [RexpAtwoCatAtwo]
+the number $K$ of additional breakpoints of $D_1^-$ never exceeded
+\textbf{??}, % [RKmax]
+so the condition $K=O(n)$ of Theorem~\ref{theo:A2minus} held on all
+instances. Finally, the number of evaluations in the ternary search grows
+linearly in $\log(1/\varepsilon)$ (Figure~\ref{fig:scaling}(c)), and lowering
+$\varepsilon$ from $10^{-2}$ to $10^{-8}$ increases the running time only by a
+factor of \textbf{??}. % [RepsTimeRatio]

@@ -1,0 +1,620 @@
+{"family": "rrt", "n": 101, "seed": 0, "alg": "alg1", "time": 0.0009377999999560416, "value": 57.771929824561404, "tau": 282.0, "stats": {"n_breakpoints_C1": 22, "n_Egt": 7, "n_evals": 37}}
+{"family": "rrt", "n": 101, "seed": 0, "alg": "alg3", "time": 0.01643943077383133, "value": 895.3296289119758, "tau": 252.9999999573804, "stats": {"n_leaves": 8, "n_F_evals": 728}}
+{"family": "rrt", "n": 101, "seed": 1, "alg": "alg1", "time": 0.00039329799823462964, "value": 287.0, "tau": 232.0, "stats": {"n_breakpoints_C1": 12, "n_Egt": 14, "n_evals": 39}}
+{"family": "rrt", "n": 101, "seed": 1, "alg": "alg3", "time": 0.019016745468516918, "value": 480.54843806634693, "tau": 208.1662826308274, "stats": {"n_leaves": 18, "n_F_evals": 1582}}
+{"family": "rrt", "n": 101, "seed": 2, "alg": "alg1", "time": 0.0014669999992474913, "value": 93.05263157894737, "tau": 244.0, "stats": {"n_breakpoints_C1": 50, "n_Egt": 5, "n_evals": 64}}
+{"family": "rrt", "n": 101, "seed": 2, "alg": "alg3", "time": 0.008532849999028258, "value": 1393.0700016385213, "tau": 215.99999994061335, "stats": {"n_leaves": 5, "n_F_evals": 423}}
+{"family": "rrt", "n": 101, "seed": 3, "alg": "alg1", "time": 0.00032704800367355346, "value": 10.666666666666679, "tau": 204.0, "stats": {"n_breakpoints_C1": 15, "n_Egt": 9, "n_evals": 19}}
+{"family": "rrt", "n": 101, "seed": 3, "alg": "alg3", "time": 0.01453784286111061, "value": 12.21052631578946, "tau": 201.0, "stats": {"n_leaves": 14, "n_F_evals": 1078}}
+{"family": "rrt", "n": 101, "seed": 4, "alg": "alg1", "time": 0.0005606379965320229, "value": 790.2954830955928, "tau": 241.6928284560033, "stats": {"n_breakpoints_C1": 23, "n_Egt": 4, "n_evals": 15}}
+{"family": "rrt", "n": 101, "seed": 4, "alg": "alg3", "time": 0.00485624524021876, "value": 476.1641993338237, "tau": 266.0, "stats": {"n_leaves": 3, "n_F_evals": 249}}
+{"family": "rrt", "n": 101, "seed": 5, "alg": "alg1", "time": 0.0003299840050749481, "value": 29.444444444444446, "tau": 257.0, "stats": {"n_breakpoints_C1": 14, "n_Egt": 7, "n_evals": 22}}
+{"family": "rrt", "n": 101, "seed": 5, "alg": "alg3", "time": 0.015671376935922757, "value": 128.0, "tau": 257.0, "stats": {"n_leaves": 12, "n_F_evals": 1020}}
+{"family": "rrt", "n": 101, "seed": 6, "alg": "alg1", "time": 0.00046480400022119283, "value": 171.66210340379197, "tau": 226.93851818660144, "stats": {"n_breakpoints_C1": 17, "n_Egt": 15, "n_evals": 37}}
+{"family": "rrt", "n": 101, "seed": 6, "alg": "alg3", "time": 0.021536859998013823, "value": 308.1613890152358, "tau": 225.78026007727183, "stats": {"n_leaves": 16, "n_F_evals": 1434}}
+{"family": "rrt", "n": 101, "seed": 7, "alg": "alg1", "time": 0.0007395400060340762, "value": 61.152542372881356, "tau": 248.0, "stats": {"n_breakpoints_C1": 30, "n_Egt": 9, "n_evals": 33}}
+{"family": "rrt", "n": 101, "seed": 7, "alg": "alg3", "time": 0.013000062499486376, "value": 352.97428458346326, "tau": 231.99999990337318, "stats": {"n_leaves": 9, "n_F_evals": 795}}
+{"family": "rrt", "n": 101, "seed": 8, "alg": "alg1", "time": 0.0007721180072985589, "value": 180.49411955899112, "tau": 210.13474550259485, "stats": {"n_breakpoints_C1": 23, "n_Egt": 4, "n_evals": 36}}
+{"family": "rrt", "n": 101, "seed": 8, "alg": "alg3", "time": 0.005641044444119971, "value": 363.52097251342076, "tau": 205.57142880121182, "stats": {"n_leaves": 4, "n_F_evals": 340}}
+{"family": "rrt", "n": 101, "seed": 9, "alg": "alg1", "time": 0.0009808279993012547, "value": 87.51851851851852, "tau": 286.0, "stats": {"n_breakpoints_C1": 30, "n_Egt": 2, "n_evals": 33}}
+{"family": "rrt", "n": 101, "seed": 9, "alg": "alg3", "time": 0.0024037539982236923, "value": 1788.5644053690241, "tau": 286.0, "stats": {"n_leaves": 1, "n_F_evals": 83}}
+{"family": "rrt", "n": 201, "seed": 0, "alg": "alg1", "time": 0.0008818020042963326, "value": 27.263157894736846, "tau": 276.0, "stats": {"n_breakpoints_C1": 30, "n_Egt": 16, "n_evals": 47}}
+{"family": "rrt", "n": 201, "seed": 0, "alg": "alg3", "time": 0.03736743332895761, "value": 132.125, "tau": 248.0, "stats": {"n_leaves": 24, "n_F_evals": 2128}}
+{"family": "rrt", "n": 201, "seed": 1, "alg": "alg1", "time": 0.0016411600005812944, "value": 0.8524590163934436, "tau": 205.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 8, "n_evals": 17}}
+{"family": "rrt", "n": 201, "seed": 1, "alg": "alg3", "time": 0.011186022214436283, "value": 4.137931034482767, "tau": 204.0, "stats": {"n_leaves": 6, "n_F_evals": 438}}
+{"family": "rrt", "n": 201, "seed": 2, "alg": "alg1", "time": 0.0020112819969654084, "value": 112.0253164556962, "tau": 337.0, "stats": {"n_breakpoints_C1": 30, "n_Egt": 18, "n_evals": 157}}
+{"family": "rrt", "n": 201, "seed": 2, "alg": "alg3", "time": 0.008497383338787282, "value": 1699.294599418066, "tau": 307.0000002100805, "stats": {"n_leaves": 3, "n_F_evals": 261}}
+{"family": "rrt", "n": 201, "seed": 3, "alg": "alg1", "time": 0.0014743099990300835, "value": 208.74820334592297, "tau": 312.5704730023592, "stats": {"n_breakpoints_C1": 32, "n_Egt": 3, "n_evals": 12}}
+{"family": "rrt", "n": 201, "seed": 3, "alg": "alg3", "time": 0.011542822221397527, "value": 1038.481736486104, "tau": 320.00000001063313, "stats": {"n_leaves": 4, "n_F_evals": 350}}
+{"family": "rrt", "n": 201, "seed": 4, "alg": "alg1", "time": 0.0016528419987298548, "value": 549.9116596991896, "tau": 219.0, "stats": {"n_breakpoints_C1": 45, "n_Egt": 6, "n_evals": 14}}
+{"family": "rrt", "n": 201, "seed": 4, "alg": "alg3", "time": 0.0072363892811284, "value": 248.0, "tau": 250.0, "stats": {"n_leaves": 3, "n_F_evals": 255}}
+{"family": "rrt", "n": 201, "seed": 5, "alg": "alg1", "time": 0.0014017159980721772, "value": 336.6922820028101, "tau": 315.2910517824348, "stats": {"n_breakpoints_C1": 37, "n_Egt": 5, "n_evals": 22}}
+{"family": "rrt", "n": 201, "seed": 5, "alg": "alg3", "time": 0.011116557895500017, "value": 619.3545072219272, "tau": 339.0, "stats": {"n_leaves": 4, "n_F_evals": 340}}
+{"family": "rrt", "n": 201, "seed": 6, "alg": "alg1", "time": 0.0010815300000831486, "value": 25.818181818181827, "tau": 291.0, "stats": {"n_breakpoints_C1": 36, "n_Egt": 7, "n_evals": 15}}
+{"family": "rrt", "n": 201, "seed": 6, "alg": "alg3", "time": 0.03112512856854924, "value": 24.222222222222232, "tau": 285.0, "stats": {"n_leaves": 16, "n_F_evals": 1294}}
+{"family": "rrt", "n": 201, "seed": 7, "alg": "alg1", "time": 0.0008791939984075726, "value": 51.7007874015748, "tau": 342.0, "stats": {"n_breakpoints_C1": 32, "n_Egt": 11, "n_evals": 40}}
+{"family": "rrt", "n": 201, "seed": 7, "alg": "alg3", "time": 0.026405612501548603, "value": 810.494340670378, "tau": 342.0, "stats": {"n_leaves": 11, "n_F_evals": 913}}
+{"family": "rrt", "n": 201, "seed": 8, "alg": "alg1", "time": 0.0019353219983167947, "value": 460.496345525811, "tau": 268.3122613712908, "stats": {"n_breakpoints_C1": 91, "n_Egt": 4, "n_evals": 24}}
+{"family": "rrt", "n": 201, "seed": 8, "alg": "alg3", "time": 0.016442530770571187, "value": 1925.15062160249, "tau": 281.75520030744804, "stats": {"n_leaves": 6, "n_F_evals": 532}}
+{"family": "rrt", "n": 201, "seed": 9, "alg": "alg1", "time": 0.0018349500000476838, "value": 100.57142857142858, "tau": 280.0, "stats": {"n_breakpoints_C1": 47, "n_Egt": 2, "n_evals": 16}}
+{"family": "rrt", "n": 201, "seed": 9, "alg": "alg3", "time": 0.0178607083313788, "value": 456.5904938810388, "tau": 259.00000007990445, "stats": {"n_leaves": 6, "n_F_evals": 534}}
+{"family": "rrt", "n": 401, "seed": 0, "alg": "alg1", "time": 0.001958732004277408, "value": 38.47945205479452, "tau": 328.0, "stats": {"n_breakpoints_C1": 60, "n_Egt": 20, "n_evals": 94}}
+{"family": "rrt", "n": 401, "seed": 0, "alg": "alg3", "time": 0.1163875000202097, "value": 411.2508433501706, "tau": 323.3265139988651, "stats": {"n_leaves": 40, "n_F_evals": 3544}}
+{"family": "rrt", "n": 401, "seed": 1, "alg": "alg1", "time": 0.00280765000032261, "value": 63.19148936170213, "tau": 333.0, "stats": {"n_breakpoints_C1": 55, "n_Egt": 13, "n_evals": 82}}
+{"family": "rrt", "n": 401, "seed": 1, "alg": "alg3", "time": 0.11866879998706281, "value": 764.9885001842536, "tau": 315.27461224929317, "stats": {"n_leaves": 33, "n_F_evals": 2949}}
+{"family": "rrt", "n": 401, "seed": 2, "alg": "alg1", "time": 0.0017500859964638949, "value": 30.350364963503647, "tau": 286.0, "stats": {"n_breakpoints_C1": 43, "n_Egt": 22, "n_evals": 122}}
+{"family": "rrt", "n": 401, "seed": 2, "alg": "alg3", "time": 0.12253855000017211, "value": 235.7284640251228, "tau": 283.0000000201113, "stats": {"n_leaves": 52, "n_F_evals": 4610}}
+{"family": "rrt", "n": 401, "seed": 3, "alg": "alg1", "time": 0.003629573998041451, "value": 188.6326530612245, "tau": 455.0, "stats": {"n_breakpoints_C1": 82, "n_Egt": 6, "n_evals": 32}}
+{"family": "rrt", "n": 401, "seed": 3, "alg": "alg3", "time": 0.035171366665357105, "value": 817.7757198825493, "tau": 424.69848487978385, "stats": {"n_leaves": 7, "n_F_evals": 629}}
+{"family": "rrt", "n": 401, "seed": 4, "alg": "alg1", "time": 0.003066918000113219, "value": 106.57104557640751, "tau": 406.0, "stats": {"n_breakpoints_C1": 54, "n_Egt": 20, "n_evals": 80}}
+{"family": "rrt", "n": 401, "seed": 4, "alg": "alg3", "time": 0.11632844997802749, "value": 832.3721031523822, "tau": 387.35214636836525, "stats": {"n_leaves": 28, "n_F_evals": 2546}}
+{"family": "rrt", "n": 401, "seed": 5, "alg": "alg1", "time": 0.004744244187117316, "value": 99.49356223175965, "tau": 332.0, "stats": {"n_breakpoints_C1": 86, "n_Egt": 5, "n_evals": 53}}
+{"family": "rrt", "n": 401, "seed": 5, "alg": "alg3", "time": 0.01468965713866055, "value": 1374.9625256937586, "tau": 325.0000000390402, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "rrt", "n": 401, "seed": 6, "alg": "alg1", "time": 0.000956646001432091, "value": 29.61538461538462, "tau": 337.0, "stats": {"n_breakpoints_C1": 10, "n_Egt": 30, "n_evals": 105}}
+{"family": "rrt", "n": 401, "seed": 6, "alg": "alg3", "time": 0.12581435003085062, "value": 284.85603004484835, "tau": 335.6856029407943, "stats": {"n_leaves": 64, "n_F_evals": 5824}}
+{"family": "rrt", "n": 401, "seed": 7, "alg": "alg1", "time": 0.0007573700021021068, "value": 34.59872611464968, "tau": 292.0, "stats": {"n_breakpoints_C1": 8, "n_Egt": 36, "n_evals": 123}}
+{"family": "rrt", "n": 401, "seed": 7, "alg": "alg3", "time": 0.11179080000147223, "value": 172.94638635183446, "tau": 277.69463868083795, "stats": {"n_leaves": 70, "n_F_evals": 6302}}
+{"family": "rrt", "n": 401, "seed": 8, "alg": "alg1", "time": 0.004774169768964828, "value": 942.6583988731354, "tau": 293.66638321851656, "stats": {"n_breakpoints_C1": 105, "n_Egt": 7, "n_evals": 53}}
+{"family": "rrt", "n": 401, "seed": 8, "alg": "alg3", "time": 0.015179949995529438, "value": 2734.4082837072274, "tau": 335.6926956455053, "stats": {"n_leaves": 3, "n_F_evals": 273}}
+{"family": "rrt", "n": 401, "seed": 9, "alg": "alg1", "time": 0.002105537997558713, "value": 50.65486725663716, "tau": 373.0, "stats": {"n_breakpoints_C1": 44, "n_Egt": 6, "n_evals": 20}}
+{"family": "rrt", "n": 401, "seed": 9, "alg": "alg3", "time": 0.07044596667401493, "value": 390.25754612018875, "tau": 367.6076915609532, "stats": {"n_leaves": 20, "n_F_evals": 1820}}
+{"family": "rrt", "n": 801, "seed": 0, "alg": "alg1", "time": 0.0025243480037897823, "value": 48.24215246636771, "tau": 392.0, "stats": {"n_breakpoints_C1": 51, "n_Egt": 24, "n_evals": 68}}
+{"family": "rrt", "n": 801, "seed": 0, "alg": "alg3", "time": 0.17634080001153052, "value": 172.38080851673965, "tau": 382.43808071662016, "stats": {"n_leaves": 54, "n_F_evals": 4798}}
+{"family": "rrt", "n": 801, "seed": 1, "alg": "alg1", "time": 0.003725070001091808, "value": 38.54961832061069, "tau": 394.0, "stats": {"n_breakpoints_C1": 72, "n_Egt": 24, "n_evals": 68}}
+{"family": "rrt", "n": 801, "seed": 1, "alg": "alg3", "time": 0.1837943500140682, "value": 324.7994673765948, "tau": 371.54996673299985, "stats": {"n_leaves": 41, "n_F_evals": 3677}}
+{"family": "rrt", "n": 801, "seed": 2, "alg": "alg1", "time": 0.005973444118246655, "value": 108.7035175879397, "tau": 405.0, "stats": {"n_breakpoints_C1": 118, "n_Egt": 20, "n_evals": 117}}
+{"family": "rrt", "n": 801, "seed": 2, "alg": "alg3", "time": 0.2423045999603346, "value": 594.7121255124441, "tau": 387.42640669229576, "stats": {"n_leaves": 39, "n_F_evals": 3531}}
+{"family": "rrt", "n": 801, "seed": 3, "alg": "alg1", "time": 0.003037801997270435, "value": 50.339622641509436, "tau": 353.0, "stats": {"n_breakpoints_C1": 43, "n_Egt": 44, "n_evals": 89}}
+{"family": "rrt", "n": 801, "seed": 3, "alg": "alg3", "time": 0.317143699969165, "value": 307.7738618015726, "tau": 353.0, "stats": {"n_leaves": 75, "n_F_evals": 6523}}
+{"family": "rrt", "n": 801, "seed": 4, "alg": "alg1", "time": 0.007344275010317298, "value": 88.85555521545493, "tau": 415.98035235455507, "stats": {"n_breakpoints_C1": 139, "n_Egt": 16, "n_evals": 58}}
+{"family": "rrt", "n": 801, "seed": 4, "alg": "alg3", "time": 0.1270708999945782, "value": 965.8344148516325, "tau": 381.1162641155624, "stats": {"n_leaves": 19, "n_F_evals": 1701}}
+{"family": "rrt", "n": 801, "seed": 5, "alg": "alg1", "time": 0.0058835764682632595, "value": 54.7906976744186, "tau": 396.0, "stats": {"n_breakpoints_C1": 94, "n_Egt": 30, "n_evals": 204}}
+{"family": "rrt", "n": 801, "seed": 5, "alg": "alg3", "time": 0.24399900005664676, "value": 1158.4370549295077, "tau": 393.00000003733436, "stats": {"n_leaves": 45, "n_F_evals": 3987}}
+{"family": "rrt", "n": 801, "seed": 6, "alg": "alg1", "time": 0.003540872000157833, "value": 44.89928057553957, "tau": 344.0, "stats": {"n_breakpoints_C1": 61, "n_Egt": 26, "n_evals": 53}}
+{"family": "rrt", "n": 801, "seed": 6, "alg": "alg3", "time": 0.30477889999747276, "value": 153.0, "tau": 344.0, "stats": {"n_leaves": 75, "n_F_evals": 6517}}
+{"family": "rrt", "n": 801, "seed": 7, "alg": "alg1", "time": 0.004891851218417287, "value": 23.181818181818183, "tau": 338.0, "stats": {"n_breakpoints_C1": 113, "n_Egt": 19, "n_evals": 39}}
+{"family": "rrt", "n": 801, "seed": 7, "alg": "alg3", "time": 0.1847810000181198, "value": 18.444444444444454, "tau": 332.0, "stats": {"n_leaves": 43, "n_F_evals": 3473}}
+{"family": "rrt", "n": 801, "seed": 8, "alg": "alg1", "time": 0.008671229161942998, "value": 601.465927122348, "tau": 412.15327373512173, "stats": {"n_breakpoints_C1": 123, "n_Egt": 4, "n_evals": 30}}
+{"family": "rrt", "n": 801, "seed": 8, "alg": "alg3", "time": 0.042455679993145166, "value": 1400.8183436424758, "tau": 443.0000001673025, "stats": {"n_leaves": 5, "n_F_evals": 455}}
+{"family": "rrt", "n": 801, "seed": 9, "alg": "alg1", "time": 0.005620580551395606, "value": 39.272727272727266, "tau": 376.0, "stats": {"n_breakpoints_C1": 96, "n_Egt": 41, "n_evals": 235}}
+{"family": "rrt", "n": 801, "seed": 9, "alg": "alg3", "time": 0.3232721999520436, "value": 530.4261178329363, "tau": 372.00000009381057, "stats": {"n_leaves": 61, "n_F_evals": 5547}}
+{"family": "rrt", "n": 1601, "seed": 0, "alg": "alg1", "time": 0.010389285010751337, "value": 39.94736842105263, "tau": 372.0, "stats": {"n_breakpoints_C1": 234, "n_Egt": 55, "n_evals": 159}}
+{"family": "rrt", "n": 1601, "seed": 0, "alg": "alg3", "time": 0.7926460000453517, "value": 104.7482313005323, "tau": 360.0971238987871, "stats": {"n_leaves": 124, "n_F_evals": 10536}}
+{"family": "rrt", "n": 1601, "seed": 1, "alg": "alg1", "time": 0.014304442863379205, "value": 16.54545454545455, "tau": 341.0, "stats": {"n_breakpoints_C1": 283, "n_Egt": 35, "n_evals": 71}}
+{"family": "rrt", "n": 1601, "seed": 1, "alg": "alg3", "time": 0.8039098000153899, "value": 28.49439459065414, "tau": 336.74943977620484, "stats": {"n_leaves": 83, "n_F_evals": 6723}}
+{"family": "rrt", "n": 1601, "seed": 2, "alg": "alg1", "time": 0.006991393101433742, "value": 26.909090909090917, "tau": 389.0, "stats": {"n_breakpoints_C1": 109, "n_Egt": 55, "n_evals": 111}}
+{"family": "rrt", "n": 1601, "seed": 2, "alg": "alg3", "time": 0.8441149999853224, "value": 30.0, "tau": 389.0, "stats": {"n_leaves": 158, "n_F_evals": 12798}}
+{"family": "rrt", "n": 1601, "seed": 3, "alg": "alg1", "time": 0.016933675021088373, "value": 145.58823529411762, "tau": 466.0, "stats": {"n_breakpoints_C1": 226, "n_Egt": 16, "n_evals": 233}}
+{"family": "rrt", "n": 1601, "seed": 3, "alg": "alg3", "time": 0.07816083333455026, "value": 2131.1487705349427, "tau": 466.0, "stats": {"n_leaves": 6, "n_F_evals": 510}}
+{"family": "rrt", "n": 1601, "seed": 4, "alg": "alg1", "time": 0.01963848182508214, "value": 42.421319796954315, "tau": 445.0, "stats": {"n_breakpoints_C1": 289, "n_Egt": 12, "n_evals": 112}}
+{"family": "rrt", "n": 1601, "seed": 4, "alg": "alg3", "time": 0.38774000003468245, "value": 990.9495037714039, "tau": 445.0, "stats": {"n_leaves": 30, "n_F_evals": 2600}}
+{"family": "rrt", "n": 1601, "seed": 5, "alg": "alg1", "time": 0.014578449997186129, "value": 72.96396396396398, "tau": 437.0, "stats": {"n_breakpoints_C1": 209, "n_Egt": 20, "n_evals": 182}}
+{"family": "rrt", "n": 1601, "seed": 5, "alg": "alg3", "time": 0.48112470004707575, "value": 1153.5184672370724, "tau": 422.0000002669244, "stats": {"n_leaves": 41, "n_F_evals": 3607}}
+{"family": "rrt", "n": 1601, "seed": 6, "alg": "alg1", "time": 0.010421950003365054, "value": 35.145077720207254, "tau": 380.0, "stats": {"n_breakpoints_C1": 173, "n_Egt": 56, "n_evals": 290}}
+{"family": "rrt", "n": 1601, "seed": 6, "alg": "alg3", "time": 0.8684329999377951, "value": 205.0, "tau": 380.0, "stats": {"n_leaves": 130, "n_F_evals": 11522}}
+{"family": "rrt", "n": 1601, "seed": 7, "alg": "alg1", "time": 0.0076511888894149, "value": 38.00896860986547, "tau": 399.0, "stats": {"n_breakpoints_C1": 85, "n_Egt": 50, "n_evals": 215}}
+{"family": "rrt", "n": 1601, "seed": 7, "alg": "alg3", "time": 1.0026160000124946, "value": 242.99068313995457, "tau": 379.24922370060835, "stats": {"n_leaves": 152, "n_F_evals": 13812}}
+{"family": "rrt", "n": 1601, "seed": 8, "alg": "alg1", "time": 0.015503423073543953, "value": 52.87234042553192, "tau": 425.0, "stats": {"n_breakpoints_C1": 286, "n_Egt": 41, "n_evals": 261}}
+{"family": "rrt", "n": 1601, "seed": 8, "alg": "alg3", "time": 0.8677362999878824, "value": 412.0439478636438, "tau": 414.00000015129626, "stats": {"n_leaves": 87, "n_F_evals": 7903}}
+{"family": "rrt", "n": 1601, "seed": 9, "alg": "alg1", "time": 0.0065170129002522555, "value": 36.170212765957444, "tau": 408.0, "stats": {"n_breakpoints_C1": 78, "n_Egt": 39, "n_evals": 140}}
+{"family": "rrt", "n": 1601, "seed": 9, "alg": "alg3", "time": 0.7115591000765562, "value": 235.66839471074974, "tau": 400.20616906118994, "stats": {"n_leaves": 118, "n_F_evals": 10418}}
+{"family": "rrt", "n": 3201, "seed": 0, "alg": "alg1", "time": 0.045486579975113274, "value": 46.12500000000001, "tau": 467.0, "stats": {"n_breakpoints_C1": 636, "n_Egt": 31, "n_evals": 220}}
+{"family": "rrt", "n": 3201, "seed": 0, "alg": "alg3", "time": 1.9690990999806672, "value": 648.3661297267527, "tau": 439.51035350210964, "stats": {"n_leaves": 85, "n_F_evals": 7535}}
+{"family": "rrt", "n": 3201, "seed": 1, "alg": "alg1", "time": 0.026308474989491515, "value": 13.565217391304351, "tau": 413.0, "stats": {"n_breakpoints_C1": 285, "n_Egt": 44, "n_evals": 89}}
+{"family": "rrt", "n": 3201, "seed": 1, "alg": "alg3", "time": 2.3943909000372514, "value": 16.411764705882355, "tau": 404.0, "stats": {"n_leaves": 144, "n_F_evals": 11940}}
+{"family": "rrt", "n": 3201, "seed": 2, "alg": "alg1", "time": 0.00754184285844011, "value": 18.012048192771086, "tau": 448.0, "stats": {"n_breakpoints_C1": 67, "n_Egt": 102, "n_evals": 205}}
+{"family": "rrt", "n": 3201, "seed": 2, "alg": "alg3", "time": 1.5066222000168636, "value": 115.0, "tau": 448.0, "stats": {"n_leaves": 309, "n_F_evals": 26865}}
+{"family": "rrt", "n": 3201, "seed": 3, "alg": "alg1", "time": 0.04790860002394766, "value": 142.36933797909407, "tau": 484.0, "stats": {"n_breakpoints_C1": 630, "n_Egt": 30, "n_evals": 386}}
+{"family": "rrt", "n": 3201, "seed": 3, "alg": "alg3", "time": 1.7235529000172392, "value": 726.6109865878624, "tau": 480.0000000108013, "stats": {"n_leaves": 72, "n_F_evals": 6368}}
+{"family": "rrt", "n": 3201, "seed": 4, "alg": "alg1", "time": 0.014906642858737282, "value": 8.666666666666664, "tau": 432.0, "stats": {"n_breakpoints_C1": 209, "n_Egt": 58, "n_evals": 117}}
+{"family": "rrt", "n": 3201, "seed": 4, "alg": "alg3", "time": 2.227617199998349, "value": 38.769230769230745, "tau": 424.0, "stats": {"n_leaves": 228, "n_F_evals": 18892}}
+{"family": "rrt", "n": 3201, "seed": 5, "alg": "alg1", "time": 0.014400592855443912, "value": 48.701195219123505, "tau": 470.0, "stats": {"n_breakpoints_C1": 181, "n_Egt": 69, "n_evals": 189}}
+{"family": "rrt", "n": 3201, "seed": 5, "alg": "alg3", "time": 2.170126299955882, "value": 380.5061351744181, "tau": 456.3141445525837, "stats": {"n_leaves": 238, "n_F_evals": 21108}}
+{"family": "rrt", "n": 3201, "seed": 6, "alg": "alg1", "time": 0.016452830768405244, "value": 40.58951965065503, "tau": 443.0, "stats": {"n_breakpoints_C1": 165, "n_Egt": 58, "n_evals": 264}}
+{"family": "rrt", "n": 3201, "seed": 6, "alg": "alg3", "time": 2.5326299000298604, "value": 198.0, "tau": 443.0, "stats": {"n_leaves": 244, "n_F_evals": 21674}}
+{"family": "rrt", "n": 3201, "seed": 7, "alg": "alg1", "time": 0.00820880800485611, "value": 34.66666666666667, "tau": 401.0, "stats": {"n_breakpoints_C1": 70, "n_Egt": 108, "n_evals": 309}}
+{"family": "rrt", "n": 3201, "seed": 7, "alg": "alg3", "time": 1.9337205999763682, "value": 117.99581588126898, "tau": 375.14255809997746, "stats": {"n_leaves": 372, "n_F_evals": 33024}}
+{"family": "rrt", "n": 3201, "seed": 8, "alg": "alg1", "time": 0.03689868334913626, "value": 32.483870967741936, "tau": 439.0, "stats": {"n_breakpoints_C1": 415, "n_Egt": 51, "n_evals": 336}}
+{"family": "rrt", "n": 3201, "seed": 8, "alg": "alg3", "time": 2.6175279000308365, "value": 567.7278163683127, "tau": 422.3879722412754, "stats": {"n_leaves": 138, "n_F_evals": 12258}}
+{"family": "rrt", "n": 3201, "seed": 9, "alg": "alg1", "time": 0.01653616922871711, "value": 9.521739130434785, "tau": 407.0, "stats": {"n_breakpoints_C1": 215, "n_Egt": 103, "n_evals": 207}}
+{"family": "rrt", "n": 3201, "seed": 9, "alg": "alg3", "time": 1.9657996000023559, "value": 23.769231279983618, "tau": 398.9999999721943, "stats": {"n_leaves": 196, "n_F_evals": 16268}}
+{"family": "rrt", "n": 6401, "seed": 0, "alg": "alg1", "time": 0.07761976666127642, "value": 40.38461538461539, "tau": 573.0, "stats": {"n_breakpoints_C1": 808, "n_Egt": 54, "n_evals": 335}}
+{"family": "rrt", "n": 6401, "seed": 0, "alg": "alg3", "time": 6.829604399972595, "value": 1625.0632381731607, "tau": 546.6591917719091, "stats": {"n_leaves": 177, "n_F_evals": 15883}}
+{"family": "rrt", "n": 6401, "seed": 1, "alg": "alg1", "time": 0.036859149986412376, "value": 41.63358778625955, "tau": 512.0, "stats": {"n_breakpoints_C1": 353, "n_Egt": 106, "n_evals": 360}}
+{"family": "rrt", "n": 6401, "seed": 1, "alg": "alg3", "time": 8.188463200000115, "value": 384.0, "tau": 512.0, "stats": {"n_leaves": 445, "n_F_evals": 40249}}
+{"family": "rrt", "n": 6401, "seed": 2, "alg": "alg1", "time": 0.04484941998962313, "value": 6.000000000000002, "tau": 508.0, "stats": {"n_breakpoints_C1": 350, "n_Egt": 82, "n_evals": 242}}
+{"family": "rrt", "n": 6401, "seed": 2, "alg": "alg3", "time": 7.103926599957049, "value": 17.22222222222223, "tau": 502.0, "stats": {"n_leaves": 297, "n_F_evals": 24053}}
+{"family": "rrt", "n": 6401, "seed": 3, "alg": "alg1", "time": 0.019564236355522138, "value": 39.85714285714286, "tau": 502.0, "stats": {"n_breakpoints_C1": 156, "n_Egt": 160, "n_evals": 477}}
+{"family": "rrt", "n": 6401, "seed": 3, "alg": "alg3", "time": 4.955599100096151, "value": 182.05068828421412, "tau": 485.4050686084775, "stats": {"n_leaves": 590, "n_F_evals": 52450}}
+{"family": "rrt", "n": 6401, "seed": 4, "alg": "alg1", "time": 0.06509230000665411, "value": 35.36585365853659, "tau": 505.0, "stats": {"n_breakpoints_C1": 445, "n_Egt": 56, "n_evals": 350}}
+{"family": "rrt", "n": 6401, "seed": 4, "alg": "alg3", "time": 6.738938599941321, "value": 298.85037138258485, "tau": 505.0, "stats": {"n_leaves": 181, "n_F_evals": 15663}}
+{"family": "rrt", "n": 6401, "seed": 5, "alg": "alg1", "time": 0.04968459999654442, "value": 45.34285714285714, "tau": 494.0, "stats": {"n_breakpoints_C1": 519, "n_Egt": 90, "n_evals": 463}}
+{"family": "rrt", "n": 6401, "seed": 5, "alg": "alg3", "time": 8.538044200045988, "value": 291.9754151906548, "tau": 494.0, "stats": {"n_leaves": 343, "n_F_evals": 31045}}
+{"family": "rrt", "n": 6401, "seed": 6, "alg": "alg1", "time": 0.05997592501807958, "value": 73.41414141414141, "tau": 549.0, "stats": {"n_breakpoints_C1": 722, "n_Egt": 88, "n_evals": 528}}
+{"family": "rrt", "n": 6401, "seed": 6, "alg": "alg3", "time": 7.512345600058325, "value": 987.5037860587679, "tau": 526.5943259377158, "stats": {"n_leaves": 236, "n_F_evals": 21090}}
+{"family": "rrt", "n": 6401, "seed": 7, "alg": "alg1", "time": 0.044125039991922674, "value": 23.199999999999996, "tau": 412.0, "stats": {"n_breakpoints_C1": 453, "n_Egt": 149, "n_evals": 448}}
+{"family": "rrt", "n": 6401, "seed": 7, "alg": "alg3", "time": 16.907939700060524, "value": 77.00439608094159, "tau": 412.0, "stats": {"n_leaves": 544, "n_F_evals": 46198}}
+{"family": "rrt", "n": 6401, "seed": 8, "alg": "alg1", "time": 0.11801089998334646, "value": 59.013215859030836, "tau": 519.0, "stats": {"n_breakpoints_C1": 573, "n_Egt": 38, "n_evals": 264}}
+{"family": "rrt", "n": 6401, "seed": 8, "alg": "alg3", "time": 10.481052199960686, "value": 579.0606482867338, "tau": 510.00000000437615, "stats": {"n_leaves": 98, "n_F_evals": 8698}}
+{"family": "rrt", "n": 6401, "seed": 9, "alg": "alg1", "time": 0.06364607502473518, "value": 24.21359223300971, "tau": 474.0, "stats": {"n_breakpoints_C1": 345, "n_Egt": 77, "n_evals": 155}}
+{"family": "rrt", "n": 6401, "seed": 9, "alg": "alg3", "time": 18.9672569000395, "value": 88.66666666666664, "tau": 459.0, "stats": {"n_leaves": 407, "n_F_evals": 34547}}
+{"family": "cat", "n": 101, "seed": 0, "alg": "alg1", "time": 0.0028218159987591206, "value": 11.058823529411768, "tau": 633.0, "stats": {"n_breakpoints_C1": 22, "n_Egt": 8, "n_evals": 17}}
+{"family": "cat", "n": 101, "seed": 0, "alg": "alg3", "time": 0.033839916674575456, "value": 40.0, "tau": 633.0, "stats": {"n_leaves": 3, "n_F_evals": 249}}
+{"family": "cat", "n": 101, "seed": 1, "alg": "alg1", "time": 0.0025530939945019784, "value": 371.9630079595143, "tau": 703.6662993295929, "stats": {"n_breakpoints_C1": 21, "n_Egt": 2, "n_evals": 7}}
+{"family": "cat", "n": 101, "seed": 1, "alg": "alg3", "time": 0.019582336366345935, "value": 505.70771754086064, "tau": 742.2648372426783, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat", "n": 101, "seed": 2, "alg": "alg1", "time": 0.0034512719931080937, "value": 37.7906976744186, "tau": 718.0, "stats": {"n_breakpoints_C1": 24, "n_Egt": 7, "n_evals": 28}}
+{"family": "cat", "n": 101, "seed": 2, "alg": "alg3", "time": 0.027000137502909638, "value": 118.91717089912069, "tau": 698.743097719873, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 101, "seed": 3, "alg": "alg1", "time": 0.002793552002403885, "value": 62.51983173305353, "tau": 696.9597066014906, "stats": {"n_breakpoints_C1": 19, "n_Egt": 5, "n_evals": 21}}
+{"family": "cat", "n": 101, "seed": 3, "alg": "alg3", "time": 0.010117269994225353, "value": 685.4384324105874, "tau": 676.9545170435274, "stats": {"n_leaves": 1, "n_F_evals": 91}}
+{"family": "cat", "n": 101, "seed": 4, "alg": "alg1", "time": 0.0024846679996699097, "value": 93.3362831858407, "tau": 718.0, "stats": {"n_breakpoints_C1": 21, "n_Egt": 1, "n_evals": 6}}
+{"family": "cat", "n": 101, "seed": 4, "alg": "alg3", "time": 0.008970430429579446, "value": 436.1907265339892, "tau": 715.0000000587869, "stats": {"n_leaves": 1, "n_F_evals": 87}}
+{"family": "cat", "n": 101, "seed": 5, "alg": "alg1", "time": 0.0029372919956222178, "value": 40.95890410958905, "tau": 635.0, "stats": {"n_breakpoints_C1": 23, "n_Egt": 2, "n_evals": 7}}
+{"family": "cat", "n": 101, "seed": 5, "alg": "alg3", "time": 0.03100424284847187, "value": 65.0, "tau": 635.0, "stats": {"n_leaves": 3, "n_F_evals": 255}}
+{"family": "cat", "n": 101, "seed": 6, "alg": "alg1", "time": 0.002444527999032289, "value": 52.714285714285715, "tau": 633.0, "stats": {"n_breakpoints_C1": 20, "n_Egt": 5, "n_evals": 11}}
+{"family": "cat", "n": 101, "seed": 6, "alg": "alg3", "time": 0.010921389477229431, "value": 270.0, "tau": 633.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 101, "seed": 7, "alg": "alg1", "time": 0.0032381599978543816, "value": 23.058823529411764, "tau": 692.0, "stats": {"n_breakpoints_C1": 29, "n_Egt": 4, "n_evals": 16}}
+{"family": "cat", "n": 101, "seed": 7, "alg": "alg3", "time": 0.023389911110926833, "value": 127.00000003025713, "tau": 662.0000000567321, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat", "n": 101, "seed": 8, "alg": "alg1", "time": 0.002553186002187431, "value": 6.5625, "tau": 603.0, "stats": {"n_breakpoints_C1": 21, "n_Egt": 6, "n_evals": 13}}
+{"family": "cat", "n": 101, "seed": 8, "alg": "alg3", "time": 0.004942931703337264, "value": 18.714285714285705, "tau": 599.0, "stats": {"n_leaves": 1, "n_F_evals": 79}}
+{"family": "cat", "n": 101, "seed": 9, "alg": "alg1", "time": 0.002770465996582061, "value": 42.58064516129033, "tau": 637.0, "stats": {"n_breakpoints_C1": 21, "n_Egt": 11, "n_evals": 31}}
+{"family": "cat", "n": 101, "seed": 9, "alg": "alg3", "time": 0.016682966670487076, "value": 226.72843024582724, "tau": 637.0, "stats": {"n_leaves": 2, "n_F_evals": 174}}
+{"family": "cat", "n": 201, "seed": 0, "alg": "alg1", "time": 0.007173689294307094, "value": 108.1453744493392, "tau": 1282.0, "stats": {"n_breakpoints_C1": 30, "n_Egt": 6, "n_evals": 27}}
+{"family": "cat", "n": 201, "seed": 0, "alg": "alg3", "time": 0.02359988889656961, "value": 1140.1681979938526, "tau": 1282.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 201, "seed": 1, "alg": "alg1", "time": 0.009021243475296575, "value": 10.845070422535212, "tau": 1185.0, "stats": {"n_breakpoints_C1": 33, "n_Egt": 11, "n_evals": 23}}
+{"family": "cat", "n": 201, "seed": 1, "alg": "alg3", "time": 0.03875939998154839, "value": 49.76866265166148, "tau": 1177.076865886461, "stats": {"n_leaves": 2, "n_F_evals": 166}}
+{"family": "cat", "n": 201, "seed": 2, "alg": "alg1", "time": 0.007694934611208737, "value": 102.23136701071972, "tau": 1196.8685061901879, "stats": {"n_breakpoints_C1": 30, "n_Egt": 9, "n_evals": 30}}
+{"family": "cat", "n": 201, "seed": 2, "alg": "alg3", "time": 0.051630400004796684, "value": 504.0, "tau": 1200.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 201, "seed": 3, "alg": "alg1", "time": 0.009550228576353263, "value": 23.636363636363637, "tau": 1221.0, "stats": {"n_breakpoints_C1": 34, "n_Egt": 5, "n_evals": 11}}
+{"family": "cat", "n": 201, "seed": 3, "alg": "alg3", "time": 0.04660756001248956, "value": 195.0, "tau": 1221.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 201, "seed": 4, "alg": "alg1", "time": 0.008727095656744812, "value": 88.35820895522389, "tau": 1130.0, "stats": {"n_breakpoints_C1": 35, "n_Egt": 9, "n_evals": 50}}
+{"family": "cat", "n": 201, "seed": 4, "alg": "alg3", "time": 0.014300478572425033, "value": 593.1185111609411, "tau": 1105.9336759687778, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 201, "seed": 5, "alg": "alg1", "time": 0.008065768009983003, "value": 26.792079207920793, "tau": 1209.0, "stats": {"n_breakpoints_C1": 34, "n_Egt": 15, "n_evals": 31}}
+{"family": "cat", "n": 201, "seed": 5, "alg": "alg3", "time": 0.0380667166900821, "value": 271.5946241123542, "tau": 1209.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 201, "seed": 6, "alg": "alg1", "time": 0.006134190907080968, "value": 46.65413533834587, "tau": 1230.0, "stats": {"n_breakpoints_C1": 32, "n_Egt": 11, "n_evals": 52}}
+{"family": "cat", "n": 201, "seed": 6, "alg": "alg3", "time": 0.03385071665979922, "value": 400.7118298348421, "tau": 1228.1131902330183, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat", "n": 201, "seed": 7, "alg": "alg1", "time": 0.004659374417780444, "value": 51.28025477707006, "tau": 1204.0, "stats": {"n_breakpoints_C1": 35, "n_Egt": 8, "n_evals": 28}}
+{"family": "cat", "n": 201, "seed": 7, "alg": "alg3", "time": 0.030391285711500262, "value": 776.0, "tau": 1204.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 201, "seed": 8, "alg": "alg1", "time": 0.005162658975817836, "value": 137.29032258064515, "tau": 1224.0, "stats": {"n_breakpoints_C1": 32, "n_Egt": 12, "n_evals": 45}}
+{"family": "cat", "n": 201, "seed": 8, "alg": "alg3", "time": 0.007449611107370368, "value": 385.0563096253919, "tau": 1222.4807661636899, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 201, "seed": 9, "alg": "alg1", "time": 0.008264839998446405, "value": 176.1142857142857, "tau": 1306.0, "stats": {"n_breakpoints_C1": 31, "n_Egt": 8, "n_evals": 36}}
+{"family": "cat", "n": 201, "seed": 9, "alg": "alg3", "time": 0.09876649997507532, "value": 750.3066657350312, "tau": 1306.0, "stats": {"n_leaves": 3, "n_F_evals": 273}}
+{"family": "cat", "n": 401, "seed": 0, "alg": "alg1", "time": 0.024145788888240025, "value": 146.70616113744074, "tau": 2528.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 15, "n_evals": 37}}
+{"family": "cat", "n": 401, "seed": 0, "alg": "alg3", "time": 0.04037239998579025, "value": 1058.650557203054, "tau": 2528.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 401, "seed": 1, "alg": "alg1", "time": 0.026246624998748302, "value": 164.13300492610836, "tau": 2433.0, "stats": {"n_breakpoints_C1": 42, "n_Egt": 19, "n_evals": 59}}
+{"family": "cat", "n": 401, "seed": 1, "alg": "alg3", "time": 0.03421644998403887, "value": 906.0247817226569, "tau": 2433.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 401, "seed": 2, "alg": "alg1", "time": 0.022907455555266805, "value": 85.5, "tau": 2342.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 15, "n_evals": 38}}
+{"family": "cat", "n": 401, "seed": 2, "alg": "alg3", "time": 0.167214100016281, "value": 434.51166179145, "tau": 2342.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat", "n": 401, "seed": 3, "alg": "alg1", "time": 0.021509310009423643, "value": 97.25714285714285, "tau": 2349.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 15, "n_evals": 56}}
+{"family": "cat", "n": 401, "seed": 3, "alg": "alg3", "time": 0.10117579996585846, "value": 575.0, "tau": 2349.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 401, "seed": 4, "alg": "alg1", "time": 0.029034185722204193, "value": 40.83471074380165, "tau": 2298.0, "stats": {"n_breakpoints_C1": 38, "n_Egt": 19, "n_evals": 39}}
+{"family": "cat", "n": 401, "seed": 4, "alg": "alg3", "time": 0.11914774996694177, "value": 305.0, "tau": 2298.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 401, "seed": 5, "alg": "alg1", "time": 0.023080755568419892, "value": 51.68, "tau": 2488.0, "stats": {"n_breakpoints_C1": 38, "n_Egt": 25, "n_evals": 94}}
+{"family": "cat", "n": 401, "seed": 5, "alg": "alg3", "time": 0.12709095008904114, "value": 1067.441051572142, "tau": 2488.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat", "n": 401, "seed": 6, "alg": "alg1", "time": 0.018704390915280037, "value": 103.7258064516129, "tau": 2506.0, "stats": {"n_breakpoints_C1": 37, "n_Egt": 18, "n_evals": 86}}
+{"family": "cat", "n": 401, "seed": 6, "alg": "alg3", "time": 0.03820304999438425, "value": 1206.6914821168914, "tau": 2506.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 401, "seed": 7, "alg": "alg1", "time": 0.017572066659340635, "value": 123.04761904761905, "tau": 2414.0, "stats": {"n_breakpoints_C1": 36, "n_Egt": 17, "n_evals": 58}}
+{"family": "cat", "n": 401, "seed": 7, "alg": "alg3", "time": 0.21008654998149723, "value": 1670.400773538786, "tau": 2414.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 401, "seed": 8, "alg": "alg1", "time": 0.053123979992233214, "value": 48.588235294117645, "tau": 2339.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 16, "n_evals": 33}}
+{"family": "cat", "n": 401, "seed": 8, "alg": "alg3", "time": 0.10772124998038635, "value": 210.0, "tau": 2339.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 401, "seed": 9, "alg": "alg1", "time": 0.044890660000965, "value": 94.71118202639775, "tau": 2396.345848533231, "stats": {"n_breakpoints_C1": 41, "n_Egt": 16, "n_evals": 53}}
+{"family": "cat", "n": 401, "seed": 9, "alg": "alg3", "time": 0.11779339995700866, "value": 590.0, "tau": 2408.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 801, "seed": 0, "alg": "alg1", "time": 0.12022634997265413, "value": 120.39189189189189, "tau": 4670.0, "stats": {"n_breakpoints_C1": 39, "n_Egt": 33, "n_evals": 110}}
+{"family": "cat", "n": 801, "seed": 0, "alg": "alg3", "time": 0.6696925000287592, "value": 1179.9999999999998, "tau": 4670.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat", "n": 801, "seed": 1, "alg": "alg1", "time": 0.07724396674893796, "value": 106.51401869158879, "tau": 4596.0, "stats": {"n_breakpoints_C1": 39, "n_Egt": 42, "n_evals": 108}}
+{"family": "cat", "n": 801, "seed": 1, "alg": "alg3", "time": 0.42840819992125034, "value": 1590.590185853817, "tau": 4596.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 801, "seed": 2, "alg": "alg1", "time": 0.07427046669181436, "value": 24.629629629629633, "tau": 4566.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 37, "n_evals": 75}}
+{"family": "cat", "n": 801, "seed": 2, "alg": "alg3", "time": 0.38546919997315854, "value": 105.0, "tau": 4566.0, "stats": {"n_leaves": 3, "n_F_evals": 261}}
+{"family": "cat", "n": 801, "seed": 3, "alg": "alg1", "time": 0.05374259999371134, "value": 48.75, "tau": 4659.0, "stats": {"n_breakpoints_C1": 38, "n_Egt": 39, "n_evals": 79}}
+{"family": "cat", "n": 801, "seed": 3, "alg": "alg3", "time": 0.07614436668033402, "value": 260.0, "tau": 4659.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 801, "seed": 4, "alg": "alg1", "time": 0.030108257130320584, "value": 66.67289719626169, "tau": 4667.0, "stats": {"n_breakpoints_C1": 42, "n_Egt": 43, "n_evals": 136}}
+{"family": "cat", "n": 801, "seed": 4, "alg": "alg3", "time": 0.07226736668962985, "value": 1533.2820784892422, "tau": 4667.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 801, "seed": 5, "alg": "alg1", "time": 0.030508971423842013, "value": 39.532710280373834, "tau": 4425.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 36, "n_evals": 108}}
+{"family": "cat", "n": 801, "seed": 5, "alg": "alg3", "time": 0.21360869996715337, "value": 235.0, "tau": 4425.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat", "n": 801, "seed": 6, "alg": "alg1", "time": 0.06181064998963848, "value": 46.13173652694611, "tau": 4642.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 37, "n_evals": 106}}
+{"family": "cat", "n": 801, "seed": 6, "alg": "alg3", "time": 0.08317513333167881, "value": 535.0, "tau": 4642.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 801, "seed": 7, "alg": "alg1", "time": 0.057878300023730844, "value": 150.26530612244898, "tau": 4771.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 34, "n_evals": 71}}
+{"family": "cat", "n": 801, "seed": 7, "alg": "alg3", "time": 0.21023450006032363, "value": 1026.3761569374847, "tau": 4771.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 801, "seed": 8, "alg": "alg1", "time": 0.03389005000159765, "value": 70.06493506493506, "tau": 4795.0, "stats": {"n_breakpoints_C1": 38, "n_Egt": 29, "n_evals": 91}}
+{"family": "cat", "n": 801, "seed": 8, "alg": "alg3", "time": 0.2400486000115052, "value": 1731.110635888701, "tau": 4795.0, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat", "n": 801, "seed": 9, "alg": "alg1", "time": 0.05031540000345558, "value": 22.48314606741573, "tau": 4752.0, "stats": {"n_breakpoints_C1": 39, "n_Egt": 42, "n_evals": 85}}
+{"family": "cat", "n": 801, "seed": 9, "alg": "alg3", "time": 0.24620569997932762, "value": 145.0, "tau": 4752.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 1601, "seed": 0, "alg": "alg1", "time": 0.13240055000642315, "value": 48.96052631578947, "tau": 9303.0, "stats": {"n_breakpoints_C1": 43, "n_Egt": 82, "n_evals": 165}}
+{"family": "cat", "n": 1601, "seed": 0, "alg": "alg3", "time": 0.16895930003374815, "value": 1359.4291377176442, "tau": 9303.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 1601, "seed": 1, "alg": "alg1", "time": 0.08137770001000415, "value": 48.01960784313726, "tau": 9050.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 74, "n_evals": 149}}
+{"family": "cat", "n": 1601, "seed": 1, "alg": "alg3", "time": 0.4881449999520555, "value": 465.0, "tau": 9050.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 1601, "seed": 2, "alg": "alg1", "time": 0.06715313333552331, "value": 36.10222399356622, "tau": 9199.894798240899, "stats": {"n_breakpoints_C1": 40, "n_Egt": 69, "n_evals": 139}}
+{"family": "cat", "n": 1601, "seed": 2, "alg": "alg3", "time": 0.12977549998322502, "value": 550.0, "tau": 9200.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 1601, "seed": 3, "alg": "alg1", "time": 0.13330064999172464, "value": 32.68421052631579, "tau": 9363.0, "stats": {"n_breakpoints_C1": 42, "n_Egt": 65, "n_evals": 131}}
+{"family": "cat", "n": 1601, "seed": 3, "alg": "alg3", "time": 0.5522717999992892, "value": 460.0, "tau": 9363.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 1601, "seed": 4, "alg": "alg1", "time": 0.1376462000189349, "value": 48.82213438735178, "tau": 9158.0, "stats": {"n_breakpoints_C1": 41, "n_Egt": 84, "n_evals": 245}}
+{"family": "cat", "n": 1601, "seed": 4, "alg": "alg3", "time": 0.270073699997738, "value": 1025.4442664782418, "tau": 9158.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 1601, "seed": 5, "alg": "alg1", "time": 0.11088195000775158, "value": 41.0, "tau": 9086.0, "stats": {"n_breakpoints_C1": 45, "n_Egt": 70, "n_evals": 185}}
+{"family": "cat", "n": 1601, "seed": 5, "alg": "alg3", "time": 0.13111844996456057, "value": 820.0, "tau": 9086.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 1601, "seed": 6, "alg": "alg1", "time": 0.06933879999754329, "value": 44.285714285714285, "tau": 9189.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 67, "n_evals": 198}}
+{"family": "cat", "n": 1601, "seed": 6, "alg": "alg3", "time": 0.15905544999986887, "value": 749.9999999999999, "tau": 9189.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 1601, "seed": 7, "alg": "alg1", "time": 0.1264730499824509, "value": 75.54716981132076, "tau": 9302.0, "stats": {"n_breakpoints_C1": 46, "n_Egt": 69, "n_evals": 182}}
+{"family": "cat", "n": 1601, "seed": 7, "alg": "alg3", "time": 0.35608590010087937, "value": 1878.7728527950733, "tau": 9302.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 1601, "seed": 8, "alg": "alg1", "time": 0.12831725005526096, "value": 1763.2121406232377, "tau": 9132.006231957575, "stats": {"n_breakpoints_C1": 38, "n_Egt": 61, "n_evals": 150}}
+{"family": "cat", "n": 1601, "seed": 8, "alg": "alg3", "time": 0.31844409997574985, "value": 3712.1175111110347, "tau": 9420.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 1601, "seed": 9, "alg": "alg1", "time": 0.12996099999872968, "value": 59.977395072742986, "tau": 9076.177045227872, "stats": {"n_breakpoints_C1": 40, "n_Egt": 70, "n_evals": 175}}
+{"family": "cat", "n": 1601, "seed": 9, "alg": "alg3", "time": 0.2565014000283554, "value": 695.0, "tau": 9080.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 3201, "seed": 0, "alg": "alg1", "time": 0.331943399971351, "value": 129.3801652892562, "tau": 18452.0, "stats": {"n_breakpoints_C1": 42, "n_Egt": 142, "n_evals": 285}}
+{"family": "cat", "n": 3201, "seed": 0, "alg": "alg3", "time": 0.8943885000189766, "value": 1514.9999999999998, "tau": 18452.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 3201, "seed": 1, "alg": "alg1", "time": 0.3218533000908792, "value": 1313.0120810097997, "tau": 18019.498064919626, "stats": {"n_breakpoints_C1": 41, "n_Egt": 148, "n_evals": 349}}
+{"family": "cat", "n": 3201, "seed": 1, "alg": "alg3", "time": 3.7843449000502005, "value": 3600.745333103365, "tau": 18242.0, "stats": {"n_leaves": 5, "n_F_evals": 445}}
+{"family": "cat", "n": 3201, "seed": 2, "alg": "alg1", "time": 0.2950034999521449, "value": 403.0889889875921, "tau": 18503.22034901146, "stats": {"n_breakpoints_C1": 39, "n_Egt": 142, "n_evals": 317}}
+{"family": "cat", "n": 3201, "seed": 2, "alg": "alg3", "time": 0.8321304999990389, "value": 2624.9999999999995, "tau": 18549.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 3201, "seed": 3, "alg": "alg1", "time": 0.2030033000628464, "value": 662.9485444499815, "tau": 18312.45130868112, "stats": {"n_breakpoints_C1": 38, "n_Egt": 137, "n_evals": 281}}
+{"family": "cat", "n": 3201, "seed": 3, "alg": "alg3", "time": 1.0494581999955699, "value": 2800.0, "tau": 18426.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 3201, "seed": 4, "alg": "alg1", "time": 0.3318969999672845, "value": 71.24050632911393, "tau": 18194.0, "stats": {"n_breakpoints_C1": 41, "n_Egt": 147, "n_evals": 392}}
+{"family": "cat", "n": 3201, "seed": 4, "alg": "alg3", "time": 0.9065740999067202, "value": 1675.0000000000002, "tau": 18194.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 3201, "seed": 5, "alg": "alg1", "time": 0.20603519992437214, "value": 1152.4451630992503, "tau": 18038.911911121704, "stats": {"n_breakpoints_C1": 44, "n_Egt": 134, "n_evals": 283}}
+{"family": "cat", "n": 3201, "seed": 5, "alg": "alg3", "time": 1.545662899967283, "value": 3595.0, "tau": 18225.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat", "n": 3201, "seed": 6, "alg": "alg1", "time": 0.3066641000332311, "value": 2021.79482134558, "tau": 17962.964250514247, "stats": {"n_breakpoints_C1": 38, "n_Egt": 125, "n_evals": 260}}
+{"family": "cat", "n": 3201, "seed": 6, "alg": "alg3", "time": 1.3789558000862598, "value": 5056.614364628523, "tau": 18335.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 3201, "seed": 7, "alg": "alg1", "time": 0.37387290003243834, "value": 39.97402597402598, "tau": 18482.0, "stats": {"n_breakpoints_C1": 40, "n_Egt": 145, "n_evals": 291}}
+{"family": "cat", "n": 3201, "seed": 7, "alg": "alg3", "time": 1.835939300013706, "value": 855.0000000000001, "tau": 18482.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 3201, "seed": 8, "alg": "alg1", "time": 0.31133329996373504, "value": 24.576271186440678, "tau": 18342.0, "stats": {"n_breakpoints_C1": 39, "n_Egt": 157, "n_evals": 315}}
+{"family": "cat", "n": 3201, "seed": 8, "alg": "alg3", "time": 0.9278815999859944, "value": 290.0, "tau": 18342.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 3201, "seed": 9, "alg": "alg1", "time": 0.3306738999672234, "value": 37.753246753246756, "tau": 18416.0, "stats": {"n_breakpoints_C1": 39, "n_Egt": 153, "n_evals": 307}}
+{"family": "cat", "n": 3201, "seed": 9, "alg": "alg3", "time": 3.4513524000067264, "value": 854.9999999999999, "tau": 18416.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat", "n": 6401, "seed": 0, "alg": "alg1", "time": 0.8212148000020534, "value": 42.05714285714286, "tau": 35880.0, "stats": {"n_breakpoints_C1": 39, "n_Egt": 285, "n_evals": 571}}
+{"family": "cat", "n": 6401, "seed": 0, "alg": "alg3", "time": 2.6323413000209257, "value": 574.9999999999999, "tau": 35880.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 6401, "seed": 1, "alg": "alg1", "time": 0.7543379999697208, "value": 268.36555360281193, "tau": 36317.0, "stats": {"n_breakpoints_C1": 39, "n_Egt": 293, "n_evals": 587}}
+{"family": "cat", "n": 6401, "seed": 1, "alg": "alg3", "time": 3.1009575999341905, "value": 2544.999999999999, "tau": 36317.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 6401, "seed": 2, "alg": "alg1", "time": 0.8250932999653742, "value": 39.906976744186046, "tau": 36354.0, "stats": {"n_breakpoints_C1": 41, "n_Egt": 289, "n_evals": 579}}
+{"family": "cat", "n": 6401, "seed": 2, "alg": "alg3", "time": 7.681636500055902, "value": 990.0, "tau": 36354.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat", "n": 6401, "seed": 3, "alg": "alg1", "time": 0.7959071000805125, "value": 2975.7015415679152, "tau": 36589.50896360706, "stats": {"n_breakpoints_C1": 39, "n_Egt": 282, "n_evals": 597}}
+{"family": "cat", "n": 6401, "seed": 3, "alg": "alg3", "time": 4.605482799932361, "value": 5079.999999999998, "tau": 37172.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 6401, "seed": 4, "alg": "alg1", "time": 0.7877691000467166, "value": 68.30023692913801, "tau": 35873.73767715988, "stats": {"n_breakpoints_C1": 40, "n_Egt": 294, "n_evals": 589}}
+{"family": "cat", "n": 6401, "seed": 4, "alg": "alg3", "time": 6.824239799985662, "value": 1215.0, "tau": 35877.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 6401, "seed": 5, "alg": "alg1", "time": 0.8086082999361679, "value": 486.2572872815173, "tau": 36178.5539265384, "stats": {"n_breakpoints_C1": 40, "n_Egt": 311, "n_evals": 623}}
+{"family": "cat", "n": 6401, "seed": 5, "alg": "alg3", "time": 3.27905960008502, "value": 2735.0000000000005, "tau": 36242.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat", "n": 6401, "seed": 6, "alg": "alg1", "time": 0.8054989000083879, "value": 773.8674104390859, "tau": 35854.03882131631, "stats": {"n_breakpoints_C1": 38, "n_Egt": 260, "n_evals": 575}}
+{"family": "cat", "n": 6401, "seed": 6, "alg": "alg3", "time": 5.322808900033124, "value": 3320.000000000001, "tau": 35984.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 6401, "seed": 7, "alg": "alg1", "time": 0.8657249000389129, "value": 37.39495798319328, "tau": 35946.0, "stats": {"n_breakpoints_C1": 42, "n_Egt": 294, "n_evals": 589}}
+{"family": "cat", "n": 6401, "seed": 7, "alg": "alg3", "time": 6.349616299965419, "value": 889.9999999999999, "tau": 35946.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat", "n": 6401, "seed": 8, "alg": "alg1", "time": 0.8275271999882534, "value": 462.04424284795266, "tau": 36560.910326000274, "stats": {"n_breakpoints_C1": 41, "n_Egt": 272, "n_evals": 545}}
+{"family": "cat", "n": 6401, "seed": 8, "alg": "alg3", "time": 4.225406600045972, "value": 2954.999999999999, "tau": 36630.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat", "n": 6401, "seed": 9, "alg": "alg1", "time": 0.7896783000323921, "value": 573.4974334251028, "tau": 35874.03466442429, "stats": {"n_breakpoints_C1": 38, "n_Egt": 277, "n_evals": 555}}
+{"family": "cat", "n": 6401, "seed": 9, "alg": "alg3", "time": 3.1639410000061616, "value": 2934.9999999999995, "tau": 35958.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "rrt-hc", "n": 101, "seed": 0, "alg": "alg2", "time": 0.0027339459978975356, "value": 323.1428571428575, "tau": 192.57142857142858, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "rrt-hc", "n": 101, "seed": 0, "alg": "alg4", "time": 0.06806256664761652, "value": 477.7365253046994, "tau": 220.10693874566635, "stats": {"n_leaves": 16, "n_F_evals": 1388}}
+{"family": "rrt-hc", "n": 101, "seed": 1, "alg": "alg2", "time": 0.022325730009470135, "value": 816.0, "tau": 236.0, "stats": {"n_D1_evals": 17, "K": 3, "n_B0": 3}}
+{"family": "rrt-hc", "n": 101, "seed": 1, "alg": "alg4", "time": 0.016321384616625998, "value": 628.4279963082967, "tau": 241.99999998207943, "stats": {"n_leaves": 6, "n_F_evals": 534}}
+{"family": "rrt-hc", "n": 101, "seed": 2, "alg": "alg2", "time": 0.0045768772754606534, "value": 452.85662887949866, "tau": 169.0, "stats": {"n_D1_evals": 9, "K": 1, "n_B0": 3}}
+{"family": "rrt-hc", "n": 101, "seed": 2, "alg": "alg4", "time": 0.036701166653074324, "value": 397.7522294254133, "tau": 211.00000033437016, "stats": {"n_leaves": 7, "n_F_evals": 607}}
+{"family": "rrt-hc", "n": 101, "seed": 3, "alg": "alg2", "time": 0.023918844449023407, "value": 1406.4090773537869, "tau": 149.28571428571428, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "rrt-hc", "n": 101, "seed": 3, "alg": "alg4", "time": 0.10884730005636811, "value": 895.3155266307772, "tau": 240.0, "stats": {"n_leaves": 5, "n_F_evals": 425}}
+{"family": "rrt-hc", "n": 101, "seed": 4, "alg": "alg2", "time": 0.018086599991268788, "value": 1453.6301523403602, "tau": 172.0, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "rrt-hc", "n": 101, "seed": 4, "alg": "alg4", "time": 0.08743690004727493, "value": 434.56235520982864, "tau": 207.99999999695527, "stats": {"n_leaves": 11, "n_F_evals": 985}}
+{"family": "rrt-hc", "n": 101, "seed": 5, "alg": "alg2", "time": 0.015643376919727486, "value": 1938.2578214848086, "tau": 167.8971576561645, "stats": {"n_D1_evals": 9, "K": 1, "n_B0": 3}}
+{"family": "rrt-hc", "n": 101, "seed": 5, "alg": "alg4", "time": 0.1313961999840103, "value": 597.8324520853588, "tau": 221.0000000988107, "stats": {"n_leaves": 15, "n_F_evals": 1315}}
+{"family": "rrt-hc", "n": 101, "seed": 6, "alg": "alg2", "time": 0.012742062499455642, "value": 2029.5863345869634, "tau": 137.6153846153846, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "rrt-hc", "n": 101, "seed": 6, "alg": "alg4", "time": 0.025275775013142265, "value": 820.3838837943226, "tau": 231.0, "stats": {"n_leaves": 7, "n_F_evals": 589}}
+{"family": "rrt-hc", "n": 101, "seed": 7, "alg": "alg2", "time": 0.0015299100009724498, "value": 547.7142857142875, "tau": 208.57142857142858, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "rrt-hc", "n": 101, "seed": 7, "alg": "alg4", "time": 0.05163854997954331, "value": 172.65506984757747, "tau": 220.40393382242146, "stats": {"n_leaves": 16, "n_F_evals": 1412}}
+{"family": "rrt-hc", "n": 101, "seed": 8, "alg": "alg2", "time": 0.002602075997274369, "value": 1970.6257139964862, "tau": 206.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "rrt-hc", "n": 101, "seed": 8, "alg": "alg4", "time": 0.040597816676987954, "value": 748.4581055642345, "tau": 275.0, "stats": {"n_leaves": 12, "n_F_evals": 1020}}
+{"family": "rrt-hc", "n": 101, "seed": 9, "alg": "alg2", "time": 0.005694272219746684, "value": 54.0, "tau": 187.0, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "rrt-hc", "n": 101, "seed": 9, "alg": "alg4", "time": 0.040321579994633795, "value": 72.0, "tau": 195.0, "stats": {"n_leaves": 8, "n_F_evals": 664}}
+{"family": "rrt-hc", "n": 201, "seed": 0, "alg": "alg2", "time": 0.05126040001050569, "value": 1023.4482758620691, "tau": 238.0, "stats": {"n_D1_evals": 21, "K": 4, "n_B0": 4}}
+{"family": "rrt-hc", "n": 201, "seed": 0, "alg": "alg4", "time": 0.07896053337026387, "value": 444.0000000096935, "tau": 239.00000000881224, "stats": {"n_leaves": 12, "n_F_evals": 1092}}
+{"family": "rrt-hc", "n": 201, "seed": 1, "alg": "alg2", "time": 0.02798314999381546, "value": 1521.130253871491, "tau": 223.0, "stats": {"n_D1_evals": 25, "K": 2, "n_B0": 9}}
+{"family": "rrt-hc", "n": 201, "seed": 1, "alg": "alg4", "time": 0.10276744997827336, "value": 897.3167889385297, "tau": 292.00000007100107, "stats": {"n_leaves": 20, "n_F_evals": 1778}}
+{"family": "rrt-hc", "n": 201, "seed": 2, "alg": "alg2", "time": 0.06980080002297957, "value": 734.272141251547, "tau": 245.0, "stats": {"n_D1_evals": 27, "K": 6, "n_B0": 3}}
+{"family": "rrt-hc", "n": 201, "seed": 2, "alg": "alg4", "time": 0.1331911000306718, "value": 638.7367947768739, "tau": 269.6656313677167, "stats": {"n_leaves": 18, "n_F_evals": 1588}}
+{"family": "rrt-hc", "n": 201, "seed": 3, "alg": "alg2", "time": 0.015799623081245676, "value": 1860.9263967722104, "tau": 189.5960055501442, "stats": {"n_D1_evals": 11, "K": 2, "n_B0": 2}}
+{"family": "rrt-hc", "n": 201, "seed": 3, "alg": "alg4", "time": 0.14287389995297417, "value": 850.4698901012878, "tau": 240.19818081018727, "stats": {"n_leaves": 24, "n_F_evals": 2164}}
+{"family": "rrt-hc", "n": 201, "seed": 4, "alg": "alg2", "time": 0.011195377783021994, "value": 897.9194800229519, "tau": 180.6153846153846, "stats": {"n_D1_evals": 9, "K": 1, "n_B0": 3}}
+{"family": "rrt-hc", "n": 201, "seed": 4, "alg": "alg4", "time": 0.12098235002486035, "value": 365.74967954393287, "tau": 220.48156425777412, "stats": {"n_leaves": 25, "n_F_evals": 2267}}
+{"family": "rrt-hc", "n": 201, "seed": 5, "alg": "alg2", "time": 0.030027442877846106, "value": 1794.7776305104715, "tau": 211.66666666666666, "stats": {"n_D1_evals": 21, "K": 1, "n_B0": 9}}
+{"family": "rrt-hc", "n": 201, "seed": 5, "alg": "alg4", "time": 0.1120210500084795, "value": 904.4456441425696, "tau": 274.13809496116124, "stats": {"n_leaves": 16, "n_F_evals": 1406}}
+{"family": "rrt-hc", "n": 201, "seed": 6, "alg": "alg2", "time": 0.0030004660016857087, "value": 512.9572491828778, "tau": 260.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "rrt-hc", "n": 201, "seed": 6, "alg": "alg4", "time": 0.18629805004457012, "value": 245.0, "tau": 295.0, "stats": {"n_leaves": 36, "n_F_evals": 3256}}
+{"family": "rrt-hc", "n": 201, "seed": 7, "alg": "alg2", "time": 0.025321887485915795, "value": 3932.9264439790345, "tau": 152.5, "stats": {"n_D1_evals": 19, "K": 4, "n_B0": 4}}
+{"family": "rrt-hc", "n": 201, "seed": 7, "alg": "alg4", "time": 0.12205240002367646, "value": 1270.503092387371, "tau": 221.9999998269363, "stats": {"n_leaves": 18, "n_F_evals": 1584}}
+{"family": "rrt-hc", "n": 201, "seed": 8, "alg": "alg2", "time": 0.007476429636072781, "value": 277.4561736548113, "tau": 229.57142857142858, "stats": {"n_D1_evals": 11, "K": 1, "n_B0": 4}}
+{"family": "rrt-hc", "n": 201, "seed": 8, "alg": "alg4", "time": 0.16856095002731308, "value": 171.24180330772407, "tau": 257.0, "stats": {"n_leaves": 31, "n_F_evals": 2697}}
+{"family": "rrt-hc", "n": 201, "seed": 9, "alg": "alg2", "time": 0.004631961362478746, "value": 925.0843535632813, "tau": 237.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "rrt-hc", "n": 201, "seed": 9, "alg": "alg4", "time": 0.10878310003317893, "value": 892.0296088580658, "tau": 296.0, "stats": {"n_leaves": 15, "n_F_evals": 1333}}
+{"family": "rrt-hc", "n": 401, "seed": 0, "alg": "alg2", "time": 0.20006019994616508, "value": 2931.9516535622374, "tau": 237.82158136794362, "stats": {"n_D1_evals": 41, "K": 8, "n_B0": 7}}
+{"family": "rrt-hc", "n": 401, "seed": 0, "alg": "alg4", "time": 0.23863619996700436, "value": 1370.307484388125, "tau": 287.99999995281206, "stats": {"n_leaves": 26, "n_F_evals": 2296}}
+{"family": "rrt-hc", "n": 401, "seed": 1, "alg": "alg2", "time": 0.03618499999477839, "value": 3336.3390938873627, "tau": 191.5, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "rrt-hc", "n": 401, "seed": 1, "alg": "alg4", "time": 0.24604030000045896, "value": 1042.0743998385597, "tau": 271.5121121793615, "stats": {"n_leaves": 24, "n_F_evals": 2098}}
+{"family": "rrt-hc", "n": 401, "seed": 2, "alg": "alg2", "time": 0.10016543332797785, "value": 1431.4942390463575, "tau": 258.3575781362168, "stats": {"n_D1_evals": 23, "K": 5, "n_B0": 3}}
+{"family": "rrt-hc", "n": 401, "seed": 2, "alg": "alg4", "time": 0.1477082499768585, "value": 545.5378187485167, "tau": 319.4540607192822, "stats": {"n_leaves": 12, "n_F_evals": 1074}}
+{"family": "rrt-hc", "n": 401, "seed": 3, "alg": "alg2", "time": 0.032001271444771974, "value": 2793.0512068658136, "tau": 268.21459006552686, "stats": {"n_D1_evals": 17, "K": 2, "n_B0": 6}}
+{"family": "rrt-hc", "n": 401, "seed": 3, "alg": "alg4", "time": 0.2154908999800682, "value": 1049.1642132499423, "tau": 346.9209982692033, "stats": {"n_leaves": 45, "n_F_evals": 3977}}
+{"family": "rrt-hc", "n": 401, "seed": 4, "alg": "alg2", "time": 0.03979428331755722, "value": 1201.9304141839607, "tau": 192.5, "stats": {"n_D1_evals": 21, "K": 3, "n_B0": 6}}
+{"family": "rrt-hc", "n": 401, "seed": 4, "alg": "alg4", "time": 0.2967309000669047, "value": 371.2142859296699, "tau": 243.00000005668386, "stats": {"n_leaves": 38, "n_F_evals": 3214}}
+{"family": "rrt-hc", "n": 401, "seed": 5, "alg": "alg2", "time": 0.13974764995509759, "value": 3880.8475116733957, "tau": 247.0, "stats": {"n_D1_evals": 27, "K": 4, "n_B0": 8}}
+{"family": "rrt-hc", "n": 401, "seed": 5, "alg": "alg4", "time": 0.04334180001169443, "value": 2633.7555465834653, "tau": 422.0, "stats": {"n_leaves": 5, "n_F_evals": 421}}
+{"family": "rrt-hc", "n": 401, "seed": 6, "alg": "alg2", "time": 0.010421679995488375, "value": 819.1786164320223, "tau": 237.66666666666666, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "rrt-hc", "n": 401, "seed": 6, "alg": "alg4", "time": 0.2413691999972798, "value": 376.9065303090014, "tau": 290.00000007735537, "stats": {"n_leaves": 32, "n_F_evals": 2886}}
+{"family": "rrt-hc", "n": 401, "seed": 7, "alg": "alg2", "time": 0.019999199991368434, "value": 249.65063549556203, "tau": 300.61538461538464, "stats": {"n_D1_evals": 15, "K": 1, "n_B0": 6}}
+{"family": "rrt-hc", "n": 401, "seed": 7, "alg": "alg4", "time": 0.21195689996238798, "value": 164.84283157785003, "tau": 302.09983364762616, "stats": {"n_leaves": 22, "n_F_evals": 1956}}
+{"family": "rrt-hc", "n": 401, "seed": 8, "alg": "alg2", "time": 0.004323040437389245, "value": 357.3086374802689, "tau": 323.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "rrt-hc", "n": 401, "seed": 8, "alg": "alg4", "time": 0.4085501000517979, "value": 709.1086018333447, "tau": 371.0, "stats": {"n_leaves": 37, "n_F_evals": 3339}}
+{"family": "rrt-hc", "n": 401, "seed": 9, "alg": "alg2", "time": 0.0047452534917135575, "value": 63.0, "tau": 279.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "rrt-hc", "n": 401, "seed": 9, "alg": "alg4", "time": 0.5692787000443786, "value": 91.0, "tau": 286.0, "stats": {"n_leaves": 90, "n_F_evals": 8134}}
+{"family": "rrt-hc", "n": 801, "seed": 0, "alg": "alg2", "time": 0.00710204482512099, "value": 7.0, "tau": 357.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "rrt-hc", "n": 801, "seed": 0, "alg": "alg4", "time": 1.5489970999769866, "value": 5.0, "tau": 358.0, "stats": {"n_leaves": 192, "n_F_evals": 17174}}
+{"family": "rrt-hc", "n": 801, "seed": 1, "alg": "alg2", "time": 0.20402209996245801, "value": 2116.1931939222204, "tau": 245.28571428571428, "stats": {"n_D1_evals": 17, "K": 1, "n_B0": 7}}
+{"family": "rrt-hc", "n": 801, "seed": 1, "alg": "alg4", "time": 1.1035192999988794, "value": 1424.2176533931292, "tau": 335.99999990865575, "stats": {"n_leaves": 30, "n_F_evals": 2600}}
+{"family": "rrt-hc", "n": 801, "seed": 2, "alg": "alg2", "time": 0.29581219993997365, "value": 1996.0653578124552, "tau": 257.0, "stats": {"n_D1_evals": 17, "K": 0, "n_B0": 8}}
+{"family": "rrt-hc", "n": 801, "seed": 2, "alg": "alg4", "time": 0.743395600002259, "value": 547.411764724047, "tau": 321.00000007191227, "stats": {"n_leaves": 58, "n_F_evals": 5228}}
+{"family": "rrt-hc", "n": 801, "seed": 3, "alg": "alg2", "time": 0.04117983998730779, "value": 954.0663448431435, "tau": 276.57142857142856, "stats": {"n_D1_evals": 11, "K": 1, "n_B0": 4}}
+{"family": "rrt-hc", "n": 801, "seed": 3, "alg": "alg4", "time": 1.0166262000566348, "value": 995.9701848751047, "tau": 353.15679161729247, "stats": {"n_leaves": 73, "n_F_evals": 6449}}
+{"family": "rrt-hc", "n": 801, "seed": 4, "alg": "alg2", "time": 0.2771746999351308, "value": 1787.7648647842807, "tau": 263.00000000000006, "stats": {"n_D1_evals": 31, "K": 7, "n_B0": 2}}
+{"family": "rrt-hc", "n": 801, "seed": 4, "alg": "alg4", "time": 0.1336316000088118, "value": 1175.017221536395, "tau": 374.0, "stats": {"n_leaves": 5, "n_F_evals": 435}}
+{"family": "rrt-hc", "n": 801, "seed": 5, "alg": "alg2", "time": 0.5573460999876261, "value": 8656.946935951328, "tau": 223.18234773859615, "stats": {"n_D1_evals": 33, "K": 6, "n_B0": 8}}
+{"family": "rrt-hc", "n": 801, "seed": 5, "alg": "alg4", "time": 0.26637189998291433, "value": 2365.272719694681, "tau": 348.8848066106454, "stats": {"n_leaves": 11, "n_F_evals": 955}}
+{"family": "rrt-hc", "n": 801, "seed": 6, "alg": "alg2", "time": 0.06128877497394569, "value": 421.727272727267, "tau": 302.45454545454544, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "rrt-hc", "n": 801, "seed": 6, "alg": "alg4", "time": 0.4753153999336064, "value": 483.65996896865283, "tau": 354.5355308160874, "stats": {"n_leaves": 43, "n_F_evals": 3893}}
+{"family": "rrt-hc", "n": 801, "seed": 7, "alg": "alg2", "time": 0.2609655000269413, "value": 8989.343511107892, "tau": 212.45326865948374, "stats": {"n_D1_evals": 19, "K": 4, "n_B0": 4}}
+{"family": "rrt-hc", "n": 801, "seed": 7, "alg": "alg4", "time": 0.4150283000199124, "value": 1782.441085952549, "tau": 356.9999999249201, "stats": {"n_leaves": 22, "n_F_evals": 1916}}
+{"family": "rrt-hc", "n": 801, "seed": 8, "alg": "alg2", "time": 0.013943106673347453, "value": 1374.6019842214582, "tau": 314.971047255916, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "rrt-hc", "n": 801, "seed": 8, "alg": "alg4", "time": 0.7527755000628531, "value": 602.9861636203112, "tau": 337.5941168467758, "stats": {"n_leaves": 116, "n_F_evals": 10510}}
+{"family": "rrt-hc", "n": 801, "seed": 9, "alg": "alg2", "time": 0.04081062003970146, "value": 942.4362637554606, "tau": 334.0, "stats": {"n_D1_evals": 17, "K": 3, "n_B0": 3}}
+{"family": "rrt-hc", "n": 801, "seed": 9, "alg": "alg4", "time": 0.9130377999972552, "value": 615.7614370063999, "tau": 364.87018280354573, "stats": {"n_leaves": 106, "n_F_evals": 9480}}
+{"family": "rrt-hc", "n": 1601, "seed": 0, "alg": "alg2", "time": 0.11982374999206513, "value": 1219.065931525658, "tau": 325.0, "stats": {"n_D1_evals": 25, "K": 2, "n_B0": 10}}
+{"family": "rrt-hc", "n": 1601, "seed": 0, "alg": "alg4", "time": 3.0830067000351846, "value": 448.9965330959772, "tau": 374.8000850271412, "stats": {"n_leaves": 146, "n_F_evals": 13222}}
+{"family": "rrt-hc", "n": 1601, "seed": 1, "alg": "alg2", "time": 0.3874716000864282, "value": 1629.5399171167091, "tau": 312.2857142857143, "stats": {"n_D1_evals": 23, "K": 2, "n_B0": 9}}
+{"family": "rrt-hc", "n": 1601, "seed": 1, "alg": "alg4", "time": 1.098077300004661, "value": 1235.3764369336654, "tau": 409.0, "stats": {"n_leaves": 38, "n_F_evals": 3306}}
+{"family": "rrt-hc", "n": 1601, "seed": 2, "alg": "alg2", "time": 0.14600985002471134, "value": 359.87880324715184, "tau": 350.0965852052261, "stats": {"n_D1_evals": 11, "K": 2, "n_B0": 2}}
+{"family": "rrt-hc", "n": 1601, "seed": 2, "alg": "alg4", "time": 3.0404347999719903, "value": 394.1776598652663, "tau": 365.2269756484153, "stats": {"n_leaves": 97, "n_F_evals": 8619}}
+{"family": "rrt-hc", "n": 1601, "seed": 3, "alg": "alg2", "time": 1.1947331000119448, "value": 4288.085629570139, "tau": 336.38871062561526, "stats": {"n_D1_evals": 33, "K": 5, "n_B0": 10}}
+{"family": "rrt-hc", "n": 1601, "seed": 3, "alg": "alg4", "time": 1.659420600044541, "value": 1420.6604555787617, "tau": 447.0000000512841, "stats": {"n_leaves": 51, "n_F_evals": 4589}}
+{"family": "rrt-hc", "n": 1601, "seed": 4, "alg": "alg2", "time": 0.6123082000995055, "value": 3309.9558372638244, "tau": 310.07068486301955, "stats": {"n_D1_evals": 27, "K": 6, "n_B0": 2}}
+{"family": "rrt-hc", "n": 1601, "seed": 4, "alg": "alg4", "time": 0.8969412000151351, "value": 1165.517909062051, "tau": 425.8998566249747, "stats": {"n_leaves": 26, "n_F_evals": 2292}}
+{"family": "rrt-hc", "n": 1601, "seed": 5, "alg": "alg2", "time": 0.07683570000032584, "value": 1835.131472679327, "tau": 359.0, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "rrt-hc", "n": 1601, "seed": 5, "alg": "alg4", "time": 2.3914108000462875, "value": 1003.8667523797978, "tau": 449.08617804019036, "stats": {"n_leaves": 109, "n_F_evals": 9883}}
+{"family": "rrt-hc", "n": 1601, "seed": 6, "alg": "alg2", "time": 0.23077040002681315, "value": 462.6938809595924, "tau": 308.5, "stats": {"n_D1_evals": 25, "K": 3, "n_B0": 8}}
+{"family": "rrt-hc", "n": 1601, "seed": 6, "alg": "alg4", "time": 2.431865100050345, "value": 169.757039980561, "tau": 338.9999999230664, "stats": {"n_leaves": 108, "n_F_evals": 9570}}
+{"family": "rrt-hc", "n": 1601, "seed": 7, "alg": "alg2", "time": 0.05499309999868274, "value": 925.7267367663483, "tau": 357.898598166406, "stats": {"n_D1_evals": 9, "K": 1, "n_B0": 3}}
+{"family": "rrt-hc", "n": 1601, "seed": 7, "alg": "alg4", "time": 2.111315399990417, "value": 387.8162548908545, "tau": 410.89989995981074, "stats": {"n_leaves": 128, "n_F_evals": 11528}}
+{"family": "rrt-hc", "n": 1601, "seed": 8, "alg": "alg2", "time": 0.04382646002341062, "value": 2799.617147088501, "tau": 316.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "rrt-hc", "n": 1601, "seed": 8, "alg": "alg4", "time": 2.361764100030996, "value": 1536.5656726409393, "tau": 455.0, "stats": {"n_leaves": 99, "n_F_evals": 8803}}
+{"family": "rrt-hc", "n": 1601, "seed": 9, "alg": "alg2", "time": 0.1035268499981612, "value": 447.18885383990914, "tau": 368.2857142857143, "stats": {"n_D1_evals": 15, "K": 0, "n_B0": 7}}
+{"family": "rrt-hc", "n": 1601, "seed": 9, "alg": "alg4", "time": 2.2491600000066683, "value": 162.8741099959621, "tau": 388.64992201178836, "stats": {"n_leaves": 116, "n_F_evals": 10290}}
+{"family": "rrt-hc", "n": 3201, "seed": 0, "alg": "alg2", "time": 0.34221050003543496, "value": 3842.4709697469452, "tau": 322.61538461538464, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "rrt-hc", "n": 3201, "seed": 0, "alg": "alg4", "time": 6.717649099999107, "value": 686.8711051086639, "tau": 417.16657482223223, "stats": {"n_leaves": 155, "n_F_evals": 13849}}
+{"family": "rrt-hc", "n": 3201, "seed": 1, "alg": "alg2", "time": 0.06907856666172545, "value": 309.7458206287714, "tau": 373.57142857142856, "stats": {"n_D1_evals": 15, "K": 1, "n_B0": 6}}
+{"family": "rrt-hc", "n": 3201, "seed": 1, "alg": "alg4", "time": 6.6194492999929935, "value": 144.5691606955052, "tau": 397.4426304339994, "stats": {"n_leaves": 326, "n_F_evals": 28936}}
+{"family": "rrt-hc", "n": 3201, "seed": 2, "alg": "alg2", "time": 0.22603200003504753, "value": 790.4083420327268, "tau": 322.5, "stats": {"n_D1_evals": 15, "K": 0, "n_B0": 7}}
+{"family": "rrt-hc", "n": 3201, "seed": 2, "alg": "alg4", "time": 8.667509699938819, "value": 398.6152762693125, "tau": 374.23304730314004, "stats": {"n_leaves": 359, "n_F_evals": 32527}}
+{"family": "rrt-hc", "n": 3201, "seed": 3, "alg": "alg2", "time": 0.38978560001123697, "value": 2249.4104851045813, "tau": 325.57142857142856, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "rrt-hc", "n": 3201, "seed": 3, "alg": "alg4", "time": 5.532213700003922, "value": 479.51243539138204, "tau": 395.30648791874836, "stats": {"n_leaves": 76, "n_F_evals": 6888}}
+{"family": "rrt-hc", "n": 3201, "seed": 4, "alg": "alg2", "time": 0.16263084998354316, "value": 1206.6528710683847, "tau": 344.5, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "rrt-hc", "n": 3201, "seed": 4, "alg": "alg4", "time": 7.774589599925093, "value": 859.3181069862059, "tau": 450.7358441544838, "stats": {"n_leaves": 266, "n_F_evals": 23576}}
+{"family": "rrt-hc", "n": 3201, "seed": 5, "alg": "alg2", "time": 0.354069699998945, "value": 581.0489330124625, "tau": 364.2857142857143, "stats": {"n_D1_evals": 19, "K": 1, "n_B0": 8}}
+{"family": "rrt-hc", "n": 3201, "seed": 5, "alg": "alg4", "time": 10.109938699984923, "value": 443.66650410038443, "tau": 423.55221382005067, "stats": {"n_leaves": 220, "n_F_evals": 19062}}
+{"family": "rrt-hc", "n": 3201, "seed": 6, "alg": "alg2", "time": 0.27306929999031126, "value": 375.66221477662407, "tau": 389.6666666666667, "stats": {"n_D1_evals": 25, "K": 2, "n_B0": 9}}
+{"family": "rrt-hc", "n": 3201, "seed": 6, "alg": "alg4", "time": 7.8405741000315174, "value": 165.75757577138458, "tau": 419.9999999335195, "stats": {"n_leaves": 278, "n_F_evals": 24548}}
+{"family": "rrt-hc", "n": 3201, "seed": 7, "alg": "alg2", "time": 0.047381899994798006, "value": 1007.0890895043848, "tau": 392.6666666666667, "stats": {"n_D1_evals": 13, "K": 0, "n_B0": 6}}
+{"family": "rrt-hc", "n": 3201, "seed": 7, "alg": "alg4", "time": 5.05233680002857, "value": 555.8516297444296, "tau": 481.49683546079467, "stats": {"n_leaves": 256, "n_F_evals": 23038}}
+{"family": "rrt-hc", "n": 3201, "seed": 8, "alg": "alg2", "time": 0.6199726000195369, "value": 3219.3253270216055, "tau": 307.45454545454544, "stats": {"n_D1_evals": 21, "K": 2, "n_B0": 8}}
+{"family": "rrt-hc", "n": 3201, "seed": 8, "alg": "alg4", "time": 6.04485249996651, "value": 1191.2326005260395, "tau": 393.08371498197243, "stats": {"n_leaves": 110, "n_F_evals": 9820}}
+{"family": "rrt-hc", "n": 3201, "seed": 9, "alg": "alg2", "time": 0.07640370004810393, "value": 295.0, "tau": 396.0, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "rrt-hc", "n": 3201, "seed": 9, "alg": "alg4", "time": 9.079811699921265, "value": 215.4786594867311, "tau": 395.9999999257338, "stats": {"n_leaves": 354, "n_F_evals": 31406}}
+{"family": "rrt-hc", "n": 6401, "seed": 0, "alg": "alg2", "time": 0.8920447999844328, "value": 799.6178720023735, "tau": 379.45454545454544, "stats": {"n_D1_evals": 17, "K": 0, "n_B0": 8}}
+{"family": "rrt-hc", "n": 6401, "seed": 0, "alg": "alg4", "time": 25.719299499993213, "value": 466.1823779336821, "tau": 432.9655068710785, "stats": {"n_leaves": 275, "n_F_evals": 24297}}
+{"family": "rrt-hc", "n": 6401, "seed": 1, "alg": "alg2", "time": 3.373630099929869, "value": 3471.121971419498, "tau": 370.26833001364287, "stats": {"n_D1_evals": 55, "K": 11, "n_B0": 11}}
+{"family": "rrt-hc", "n": 6401, "seed": 1, "alg": "alg4", "time": 15.774174700025469, "value": 962.3433169602588, "tau": 426.00000022773656, "stats": {"n_leaves": 138, "n_F_evals": 12074}}
+{"family": "rrt-hc", "n": 6401, "seed": 2, "alg": "alg2", "time": 67.98411570000462, "value": 99617.47130009468, "tau": 237.63340391463754, "stats": {"n_D1_evals": 299, "K": 74, "n_B0": 3}}
+{"family": "rrt-hc", "n": 6401, "seed": 2, "alg": "alg4", "time": 1.875786600052379, "value": 4594.707661815774, "tau": 472.49197125631906, "stats": {"n_leaves": 13, "n_F_evals": 1129}}
+{"family": "rrt-hc", "n": 6401, "seed": 3, "alg": "alg2", "time": 1.0318659000331536, "value": 3146.9561202565696, "tau": 377.45454545454544, "stats": {"n_D1_evals": 21, "K": 1, "n_B0": 9}}
+{"family": "rrt-hc", "n": 6401, "seed": 3, "alg": "alg4", "time": 29.149894200032577, "value": 808.0215657330727, "tau": 525.0000000527799, "stats": {"n_leaves": 348, "n_F_evals": 30756}}
+{"family": "rrt-hc", "n": 6401, "seed": 4, "alg": "alg2", "time": 1.905697499983944, "value": 2906.0873887586026, "tau": 370.0, "stats": {"n_D1_evals": 45, "K": 7, "n_B0": 13}}
+{"family": "rrt-hc", "n": 6401, "seed": 4, "alg": "alg4", "time": 24.891347399912775, "value": 1152.4365338425785, "tau": 465.14261490173203, "stats": {"n_leaves": 305, "n_F_evals": 26965}}
+{"family": "rrt-hc", "n": 6401, "seed": 5, "alg": "alg2", "time": 0.5546304999152198, "value": 768.8750898670372, "tau": 471.0, "stats": {"n_D1_evals": 19, "K": 1, "n_B0": 8}}
+{"family": "rrt-hc", "n": 6401, "seed": 5, "alg": "alg4", "time": 16.981836400111206, "value": 399.30394968784617, "tau": 524.423209046596, "stats": {"n_leaves": 240, "n_F_evals": 21720}}
+{"family": "rrt-hc", "n": 6401, "seed": 6, "alg": "alg2", "time": 0.2352864999556914, "value": 2766.4812566533833, "tau": 405.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "rrt-hc", "n": 6401, "seed": 6, "alg": "alg4", "time": 19.01927229994908, "value": 1406.3378360685826, "tau": 520.0, "stats": {"n_leaves": 151, "n_F_evals": 13625}}
+{"family": "rrt-hc", "n": 6401, "seed": 7, "alg": "alg2", "time": 0.748251499957405, "value": 1466.3252197057348, "tau": 394.0, "stats": {"n_D1_evals": 21, "K": 3, "n_B0": 6}}
+{"family": "rrt-hc", "n": 6401, "seed": 7, "alg": "alg4", "time": 28.38517150003463, "value": 619.271840254806, "tau": 465.7493016980809, "stats": {"n_leaves": 359, "n_F_evals": 32159}}
+{"family": "rrt-hc", "n": 6401, "seed": 8, "alg": "alg2", "time": 0.6472169000189751, "value": 1808.3299786497548, "tau": 394.0, "stats": {"n_D1_evals": 21, "K": 3, "n_B0": 6}}
+{"family": "rrt-hc", "n": 6401, "seed": 8, "alg": "alg4", "time": 39.03538000001572, "value": 439.3829787364792, "tau": 439.0000000638993, "stats": {"n_leaves": 515, "n_F_evals": 45691}}
+{"family": "rrt-hc", "n": 6401, "seed": 9, "alg": "alg2", "time": 0.7282642999198288, "value": 1050.2371692953466, "tau": 430.6913227659609, "stats": {"n_D1_evals": 31, "K": 4, "n_B0": 11}}
+{"family": "rrt-hc", "n": 6401, "seed": 9, "alg": "alg4", "time": 23.62733579997439, "value": 613.2399178561664, "tau": 464.12227059318394, "stats": {"n_leaves": 523, "n_F_evals": 47071}}
+{"family": "cat-hc", "n": 101, "seed": 0, "alg": "alg2", "time": 0.004665079537186433, "value": 96.0, "tau": 632.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "cat-hc", "n": 101, "seed": 0, "alg": "alg4", "time": 0.052281124982982874, "value": 89.46403522799258, "tau": 648.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat-hc", "n": 101, "seed": 1, "alg": "alg2", "time": 0.016964550003952656, "value": 285.534305654927, "tau": 575.0, "stats": {"n_D1_evals": 11, "K": 2, "n_B0": 2}}
+{"family": "cat-hc", "n": 101, "seed": 1, "alg": "alg4", "time": 0.07041946662745129, "value": 279.290514183254, "tau": 593.0, "stats": {"n_leaves": 3, "n_F_evals": 273}}
+{"family": "cat-hc", "n": 101, "seed": 2, "alg": "alg2", "time": 0.02935838748817332, "value": 2318.5901769903285, "tau": 569.0, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "cat-hc", "n": 101, "seed": 2, "alg": "alg4", "time": 0.10080334998201579, "value": 1688.8789056211094, "tau": 769.8120586691318, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 101, "seed": 3, "alg": "alg2", "time": 0.014612473322389026, "value": 938.8811250276317, "tau": 574.0, "stats": {"n_D1_evals": 9, "K": 1, "n_B0": 3}}
+{"family": "cat-hc", "n": 101, "seed": 3, "alg": "alg4", "time": 0.10897580002589773, "value": 825.5650040925382, "tau": 673.0, "stats": {"n_leaves": 2, "n_F_evals": 174}}
+{"family": "cat-hc", "n": 101, "seed": 4, "alg": "alg2", "time": 0.04080286002717912, "value": 520.5248411190962, "tau": 564.0, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "cat-hc", "n": 101, "seed": 4, "alg": "alg4", "time": 0.09478433333182086, "value": 319.55172422738065, "tau": 615.9999999661098, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat-hc", "n": 101, "seed": 5, "alg": "alg2", "time": 0.02233201112701661, "value": 827.8213325857148, "tau": 578.0, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "cat-hc", "n": 101, "seed": 5, "alg": "alg4", "time": 0.06816800008527935, "value": 706.7184901125091, "tau": 670.8178045401708, "stats": {"n_leaves": 1, "n_F_evals": 91}}
+{"family": "cat-hc", "n": 101, "seed": 6, "alg": "alg2", "time": 0.01750827501139914, "value": 635.9447339772779, "tau": 556.5714285714286, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 101, "seed": 6, "alg": "alg4", "time": 0.06720109997938077, "value": 728.7403795769663, "tau": 619.9999999878377, "stats": {"n_leaves": 2, "n_F_evals": 174}}
+{"family": "cat-hc", "n": 101, "seed": 7, "alg": "alg2", "time": 0.0241411444472356, "value": 2174.962421184346, "tau": 527.5, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "cat-hc", "n": 101, "seed": 7, "alg": "alg4", "time": 0.07381090001824002, "value": 1314.278184688304, "tau": 710.9664360194689, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 101, "seed": 8, "alg": "alg2", "time": 0.0179550499888137, "value": 516.6892590499331, "tau": 576.0, "stats": {"n_D1_evals": 9, "K": 1, "n_B0": 3}}
+{"family": "cat-hc", "n": 101, "seed": 8, "alg": "alg4", "time": 0.06160062499111518, "value": 487.80640123591206, "tau": 616.6559112931574, "stats": {"n_leaves": 3, "n_F_evals": 273}}
+{"family": "cat-hc", "n": 101, "seed": 9, "alg": "alg2", "time": 0.012703224987490103, "value": 585.5598525629557, "tau": 618.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 101, "seed": 9, "alg": "alg4", "time": 0.054835549992276356, "value": 994.5671023390532, "tau": 660.9317652006173, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat-hc", "n": 201, "seed": 0, "alg": "alg2", "time": 0.019386799984865567, "value": 757.651758241904, "tau": 1176.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 201, "seed": 0, "alg": "alg4", "time": 0.15502894995734096, "value": 814.2384110089238, "tau": 1300.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 201, "seed": 1, "alg": "alg2", "time": 0.021779469994362442, "value": 548.2213338493141, "tau": 1261.5, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 201, "seed": 1, "alg": "alg4", "time": 0.11212750000413507, "value": 334.49326841586355, "tau": 1314.0169256051336, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat-hc", "n": 201, "seed": 2, "alg": "alg2", "time": 0.027546125013031997, "value": 683.7129835725995, "tau": 1151.6153846153845, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 201, "seed": 2, "alg": "alg4", "time": 0.09617326668618868, "value": 963.1868257258599, "tau": 1259.8527283895246, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 201, "seed": 3, "alg": "alg2", "time": 0.016137984617111776, "value": 332.98255883602496, "tau": 1305.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 201, "seed": 3, "alg": "alg4", "time": 0.11410375003470108, "value": 351.50901200285284, "tau": 1365.9655070155743, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat-hc", "n": 201, "seed": 4, "alg": "alg2", "time": 0.02796856249915436, "value": 1111.8616350784246, "tau": 1242.6153846153845, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 201, "seed": 4, "alg": "alg4", "time": 0.15440510003827512, "value": 798.3140244045339, "tau": 1364.0, "stats": {"n_leaves": 3, "n_F_evals": 273}}
+{"family": "cat-hc", "n": 201, "seed": 5, "alg": "alg2", "time": 0.022659620014019312, "value": 1287.6346929157871, "tau": 1093.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 201, "seed": 5, "alg": "alg4", "time": 0.16142745001707226, "value": 2076.895964666874, "tau": 1287.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 201, "seed": 6, "alg": "alg2", "time": 0.06825912502245046, "value": 1701.8358252869282, "tau": 1077.5, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "cat-hc", "n": 201, "seed": 6, "alg": "alg4", "time": 0.22247489995788783, "value": 1620.029877232832, "tau": 1283.0, "stats": {"n_leaves": 4, "n_F_evals": 364}}
+{"family": "cat-hc", "n": 201, "seed": 7, "alg": "alg2", "time": 0.027662587512168102, "value": 490.9397967401491, "tau": 1116.2857142857142, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 201, "seed": 7, "alg": "alg4", "time": 0.12496864999411628, "value": 423.2875815830573, "tau": 1190.8634668730651, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat-hc", "n": 201, "seed": 8, "alg": "alg2", "time": 0.03345415000027666, "value": 1808.1335237256453, "tau": 1129.5714285714287, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "cat-hc", "n": 201, "seed": 8, "alg": "alg4", "time": 0.09476516667443018, "value": 1247.7475068496433, "tau": 1320.576662279288, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 201, "seed": 9, "alg": "alg2", "time": 0.07607959998616327, "value": 1655.4453328400086, "tau": 1115.0, "stats": {"n_D1_evals": 15, "K": 1, "n_B0": 6}}
+{"family": "cat-hc", "n": 201, "seed": 9, "alg": "alg4", "time": 0.09215506666805595, "value": 1093.337849555162, "tau": 1290.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 401, "seed": 0, "alg": "alg2", "time": 0.04561828000005334, "value": 389.5853926722208, "tau": 2192.6153846153848, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "cat-hc", "n": 401, "seed": 0, "alg": "alg4", "time": 0.4942967001115903, "value": 462.80019349189814, "tau": 2270.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat-hc", "n": 401, "seed": 1, "alg": "alg2", "time": 0.06044767500134185, "value": 423.47126569231455, "tau": 2252.285714285714, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "cat-hc", "n": 401, "seed": 1, "alg": "alg4", "time": 0.5583697999827564, "value": 348.5714285714289, "tau": 2322.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat-hc", "n": 401, "seed": 2, "alg": "alg2", "time": 0.10209840000607073, "value": 1545.8926060520528, "tau": 2236.0, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 401, "seed": 2, "alg": "alg4", "time": 0.30271989991888404, "value": 1328.984318275703, "tau": 2458.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 401, "seed": 3, "alg": "alg2", "time": 0.054613819997757676, "value": 884.8618995665549, "tau": 2189.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 401, "seed": 3, "alg": "alg4", "time": 0.46889280003961176, "value": 805.000877301411, "tau": 2331.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 401, "seed": 4, "alg": "alg2", "time": 0.15180374996270984, "value": 2075.430973183102, "tau": 2204.4545454545455, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "cat-hc", "n": 401, "seed": 4, "alg": "alg4", "time": 0.28528229997027665, "value": 1868.6029928197506, "tau": 2484.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 401, "seed": 5, "alg": "alg2", "time": 0.13675700000021607, "value": 1382.7574190098635, "tau": 2212.5, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "cat-hc", "n": 401, "seed": 5, "alg": "alg4", "time": 0.33382539998274297, "value": 1921.8645693090346, "tau": 2442.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 401, "seed": 6, "alg": "alg2", "time": 0.06764502497389913, "value": 1221.826351844267, "tau": 2277.285714285714, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 401, "seed": 6, "alg": "alg4", "time": 0.31888299994170666, "value": 1108.2857142857147, "tau": 2462.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 401, "seed": 7, "alg": "alg2", "time": 0.047734720003791156, "value": 661.0209801640246, "tau": 2320.0, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "cat-hc", "n": 401, "seed": 7, "alg": "alg4", "time": 0.3339618999743834, "value": 785.4854611011386, "tau": 2443.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 401, "seed": 8, "alg": "alg2", "time": 0.04287914000451565, "value": 946.0996761264526, "tau": 2355.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 401, "seed": 8, "alg": "alg4", "time": 0.39890290005132556, "value": 936.3787003027193, "tau": 2505.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 401, "seed": 9, "alg": "alg2", "time": 0.02413984442440172, "value": 469.57783512451124, "tau": 2325.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "cat-hc", "n": 401, "seed": 9, "alg": "alg4", "time": 0.3712851000018418, "value": 380.00000000000006, "tau": 2401.0, "stats": {"n_leaves": 3, "n_F_evals": 273}}
+{"family": "cat-hc", "n": 801, "seed": 0, "alg": "alg2", "time": 0.1622847500257194, "value": 1339.7849192896158, "tau": 4540.5, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 801, "seed": 0, "alg": "alg4", "time": 1.7542911999626085, "value": 1298.293432162752, "tau": 4777.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 801, "seed": 1, "alg": "alg2", "time": 0.27641759999096394, "value": 3640.726624688309, "tau": 4306.5, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "cat-hc", "n": 801, "seed": 1, "alg": "alg4", "time": 1.4051496000029147, "value": 3424.1265467023077, "tau": 4824.0, "stats": {"n_leaves": 2, "n_F_evals": 182}}
+{"family": "cat-hc", "n": 801, "seed": 2, "alg": "alg2", "time": 0.2023315499536693, "value": 1386.3794210174724, "tau": 4647.0, "stats": {"n_D1_evals": 11, "K": 1, "n_B0": 4}}
+{"family": "cat-hc", "n": 801, "seed": 2, "alg": "alg4", "time": 0.9021835000021383, "value": 1445.7430833614294, "tau": 4894.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 801, "seed": 3, "alg": "alg2", "time": 0.1660667000687681, "value": 585.8911193086552, "tau": 4413.5, "stats": {"n_D1_evals": 13, "K": 1, "n_B0": 5}}
+{"family": "cat-hc", "n": 801, "seed": 3, "alg": "alg4", "time": 1.1228853000793606, "value": 597.4074096881968, "tau": 4528.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 801, "seed": 4, "alg": "alg2", "time": 0.2271092999726534, "value": 2335.4611604554375, "tau": 4299.0, "stats": {"n_D1_evals": 13, "K": 0, "n_B0": 6}}
+{"family": "cat-hc", "n": 801, "seed": 4, "alg": "alg4", "time": 1.172744799987413, "value": 2471.121176083823, "tau": 4669.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 801, "seed": 5, "alg": "alg2", "time": 0.09692206668357055, "value": 1485.593155398875, "tau": 4418.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 801, "seed": 5, "alg": "alg4", "time": 0.9290878999745473, "value": 1329.7907884841366, "tau": 4658.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 801, "seed": 6, "alg": "alg2", "time": 0.08150949996585648, "value": 267.5, "tau": 4409.5, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 801, "seed": 6, "alg": "alg4", "time": 1.182655300013721, "value": 267.5, "tau": 4463.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 801, "seed": 7, "alg": "alg2", "time": 0.17270454997196794, "value": 2691.645378901935, "tau": 4477.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 801, "seed": 7, "alg": "alg4", "time": 1.5216826000250876, "value": 2691.409188680176, "tau": 4920.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 801, "seed": 8, "alg": "alg2", "time": 0.09720706668061514, "value": 285.0, "tau": 4518.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 801, "seed": 8, "alg": "alg4", "time": 0.9259948999388143, "value": 285.0, "tau": 4575.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 801, "seed": 9, "alg": "alg2", "time": 0.08449346665292978, "value": 410.0, "tau": 4516.0, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 801, "seed": 9, "alg": "alg4", "time": 0.44717810000292957, "value": 410.0, "tau": 4598.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 1601, "seed": 0, "alg": "alg2", "time": 0.14979734999360517, "value": 440.0, "tau": 8707.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 1601, "seed": 0, "alg": "alg4", "time": 3.987420600024052, "value": 440.0, "tau": 8795.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 1601, "seed": 1, "alg": "alg2", "time": 0.45760019996669143, "value": 2704.4208529488087, "tau": 8626.0, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "cat-hc", "n": 1601, "seed": 1, "alg": "alg4", "time": 3.272569500026293, "value": 2424.7829232983286, "tau": 9063.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 1601, "seed": 2, "alg": "alg2", "time": 0.09480836665413032, "value": 1063.0, "tau": 8990.0, "stats": {"n_D1_evals": 7, "K": 1, "n_B0": 2}}
+{"family": "cat-hc", "n": 1601, "seed": 2, "alg": "alg4", "time": 1.8417693000519648, "value": 1083.6349902721981, "tau": 9173.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 1601, "seed": 3, "alg": "alg2", "time": 0.10202300001401454, "value": 660.0, "tau": 9175.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 1601, "seed": 3, "alg": "alg4", "time": 2.2322122999466956, "value": 659.9999999999999, "tau": 9307.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 1601, "seed": 4, "alg": "alg2", "time": 0.06613062499673106, "value": 730.0, "tau": 9011.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 1601, "seed": 4, "alg": "alg4", "time": 4.580054800026119, "value": 730.0000000000001, "tau": 9157.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 1601, "seed": 5, "alg": "alg2", "time": 0.7196463000727817, "value": 4821.537109948732, "tau": 8777.0, "stats": {"n_D1_evals": 13, "K": 0, "n_B0": 6}}
+{"family": "cat-hc", "n": 1601, "seed": 5, "alg": "alg4", "time": 3.7162858999799937, "value": 4289.295954333618, "tau": 9562.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 1601, "seed": 6, "alg": "alg2", "time": 0.3162488000234589, "value": 1218.8365314059758, "tau": 8774.0, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "cat-hc", "n": 1601, "seed": 6, "alg": "alg4", "time": 4.185042399913073, "value": 1145.0000000000002, "tau": 9003.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat-hc", "n": 1601, "seed": 7, "alg": "alg2", "time": 0.42600610002409667, "value": 4437.968081282424, "tau": 8829.0, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 1601, "seed": 7, "alg": "alg4", "time": 3.3125464000040665, "value": 3795.384362023681, "tau": 9527.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 1601, "seed": 8, "alg": "alg2", "time": 0.4045918999472633, "value": 3193.5970927444373, "tau": 9204.666666666666, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 1601, "seed": 8, "alg": "alg4", "time": 5.5901689999736845, "value": 2592.196317859309, "tau": 9683.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 1601, "seed": 9, "alg": "alg2", "time": 0.8514706999994814, "value": 5835.210945578283, "tau": 8456.0, "stats": {"n_D1_evals": 13, "K": 0, "n_B0": 6}}
+{"family": "cat-hc", "n": 1601, "seed": 9, "alg": "alg4", "time": 4.298225099919364, "value": 5822.095526618975, "tau": 9351.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 3201, "seed": 0, "alg": "alg2", "time": 0.8045884999446571, "value": 5357.107129316331, "tau": 17575.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 3201, "seed": 0, "alg": "alg4", "time": 16.229992499924265, "value": 4869.563726044363, "tau": 18474.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 3201, "seed": 1, "alg": "alg2", "time": 0.36703209998086095, "value": 1220.0, "tau": 18027.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 3201, "seed": 1, "alg": "alg4", "time": 16.087209700024687, "value": 1220.0, "tau": 18271.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 3201, "seed": 2, "alg": "alg2", "time": 0.9188453999813646, "value": 1850.0, "tau": 17698.0, "stats": {"n_D1_evals": 13, "K": 0, "n_B0": 6}}
+{"family": "cat-hc", "n": 3201, "seed": 2, "alg": "alg4", "time": 14.854849499999546, "value": 1850.0000000000002, "tau": 18068.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 3201, "seed": 3, "alg": "alg2", "time": 1.0893967999145389, "value": 1640.5058972984364, "tau": 18145.5, "stats": {"n_D1_evals": 9, "K": 1, "n_B0": 3}}
+{"family": "cat-hc", "n": 3201, "seed": 3, "alg": "alg4", "time": 16.403858500067145, "value": 1632.5, "tau": 18472.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 3201, "seed": 4, "alg": "alg2", "time": 0.5494377999566495, "value": 1445.0, "tau": 17827.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 3201, "seed": 4, "alg": "alg4", "time": 15.856234499951825, "value": 1445.0000000000002, "tau": 18116.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 3201, "seed": 5, "alg": "alg2", "time": 0.7994044000515714, "value": 2136.9230769218793, "tau": 17784.615384615383, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "cat-hc", "n": 3201, "seed": 5, "alg": "alg4", "time": 18.479053299990483, "value": 2136.923076923085, "tau": 18212.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat-hc", "n": 3201, "seed": 6, "alg": "alg2", "time": 0.4029498000163585, "value": 1725.0, "tau": 17961.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 3201, "seed": 6, "alg": "alg4", "time": 15.199115399969742, "value": 1724.9999999999998, "tau": 18306.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 3201, "seed": 7, "alg": "alg2", "time": 0.3303629000438377, "value": 601.9230769225558, "tau": 17985.615384615383, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 3201, "seed": 7, "alg": "alg4", "time": 12.235886899987236, "value": 601.9230769230853, "tau": 18106.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 3201, "seed": 8, "alg": "alg2", "time": 0.3070086999796331, "value": 4436.317143830329, "tau": 17573.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "cat-hc", "n": 3201, "seed": 8, "alg": "alg4", "time": 14.032701899996027, "value": 4542.015209161701, "tau": 18393.0, "stats": {"n_leaves": 6, "n_F_evals": 534}}
+{"family": "cat-hc", "n": 3201, "seed": 9, "alg": "alg2", "time": 0.7043485000031069, "value": 5087.571227502693, "tau": 17290.0, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 3201, "seed": 9, "alg": "alg4", "time": 13.152412900002673, "value": 4948.718579773393, "tau": 18179.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 6401, "seed": 0, "alg": "alg2", "time": 0.839368800050579, "value": 1355.0, "tau": 36064.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 6401, "seed": 0, "alg": "alg4", "time": 49.44070370006375, "value": 1355.0, "tau": 36335.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 6401, "seed": 1, "alg": "alg2", "time": 0.8251873999834061, "value": 1530.0, "tau": 35990.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 6401, "seed": 1, "alg": "alg4", "time": 51.61245170002803, "value": 1575.0, "tau": 36275.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 6401, "seed": 2, "alg": "alg2", "time": 1.197272300021723, "value": 1155.0, "tau": 35638.0, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "cat-hc", "n": 6401, "seed": 2, "alg": "alg4", "time": 48.37473110004794, "value": 1155.0, "tau": 35869.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 6401, "seed": 3, "alg": "alg2", "time": 0.7154908999800682, "value": 2020.0, "tau": 36151.0, "stats": {"n_D1_evals": 3, "K": 0, "n_B0": 1}}
+{"family": "cat-hc", "n": 6401, "seed": 3, "alg": "alg4", "time": 51.09084459999576, "value": 2019.9999999999998, "tau": 36555.0, "stats": {"n_leaves": 4, "n_F_evals": 350}}
+{"family": "cat-hc", "n": 6401, "seed": 4, "alg": "alg2", "time": 2.163525899988599, "value": 3531.9230769217847, "tau": 36166.61538461538, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "cat-hc", "n": 6401, "seed": 4, "alg": "alg4", "time": 50.85467070003506, "value": 3531.9230769230853, "tau": 36873.0, "stats": {"n_leaves": 3, "n_F_evals": 267}}
+{"family": "cat-hc", "n": 6401, "seed": 5, "alg": "alg2", "time": 1.1689224999863654, "value": 1517.142857142734, "tau": 36172.57142857143, "stats": {"n_D1_evals": 11, "K": 0, "n_B0": 5}}
+{"family": "cat-hc", "n": 6401, "seed": 5, "alg": "alg4", "time": 50.68536120001227, "value": 1517.142857142862, "tau": 36476.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat-hc", "n": 6401, "seed": 6, "alg": "alg2", "time": 1.8264342000475153, "value": 5411.004538690794, "tau": 35597.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 6401, "seed": 6, "alg": "alg4", "time": 48.809491500025615, "value": 5114.999999999998, "tau": 36620.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "cat-hc", "n": 6401, "seed": 7, "alg": "alg2", "time": 1.116938899969682, "value": 3784.034014398215, "tau": 35471.0, "stats": {"n_D1_evals": 7, "K": 0, "n_B0": 3}}
+{"family": "cat-hc", "n": 6401, "seed": 7, "alg": "alg4", "time": 29.41389279998839, "value": 3695.0000000000005, "tau": 36210.0, "stats": {"n_leaves": 4, "n_F_evals": 356}}
+{"family": "cat-hc", "n": 6401, "seed": 8, "alg": "alg2", "time": 0.3162362000439316, "value": 985.0, "tau": 36106.0, "stats": {"n_D1_evals": 5, "K": 0, "n_B0": 2}}
+{"family": "cat-hc", "n": 6401, "seed": 8, "alg": "alg4", "time": 18.295959900016896, "value": 985.0, "tau": 36303.0, "stats": {"n_leaves": 2, "n_F_evals": 178}}
+{"family": "cat-hc", "n": 6401, "seed": 9, "alg": "alg2", "time": 0.40450940001755953, "value": 885.0, "tau": 36222.0, "stats": {"n_D1_evals": 9, "K": 0, "n_B0": 4}}
+{"family": "cat-hc", "n": 6401, "seed": 9, "alg": "alg4", "time": 17.843190400046296, "value": 885.0, "tau": 36399.0, "stats": {"n_leaves": 1, "n_F_evals": 89}}
+{"family": "catA2", "n": 41, "seed": 0, "alg": "alg2", "time": 0.005291702630194395, "value": 2480.403588231276, "tau": 190.72727272727272, "stats": {"n_D1_evals": 27, "K": 2, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 1, "alg": "alg2", "time": 0.005279918418780558, "value": 3763.1140958936912, "tau": 163.72727272727272, "stats": {"n_D1_evals": 23, "K": 1, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 2, "alg": "alg2", "time": 0.005103292496642098, "value": 3917.187362294409, "tau": 176.72727272727272, "stats": {"n_D1_evals": 27, "K": 2, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 3, "alg": "alg2", "time": 0.005296186841166529, "value": 2519.690041298675, "tau": 179.72727272727272, "stats": {"n_D1_evals": 23, "K": 1, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 4, "alg": "alg2", "time": 0.004778971427142443, "value": 3632.339126579344, "tau": 166.72727272727272, "stats": {"n_D1_evals": 21, "K": 0, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 5, "alg": "alg2", "time": 0.004907651219471562, "value": 2376.9107608682825, "tau": 214.72727272727272, "stats": {"n_D1_evals": 25, "K": 2, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 6, "alg": "alg2", "time": 0.004918597561943277, "value": 5759.172946119037, "tau": 170.72727272727272, "stats": {"n_D1_evals": 23, "K": 1, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 7, "alg": "alg2", "time": 0.007254685711814091, "value": 4593.722039115503, "tau": 158.72727272727272, "stats": {"n_D1_evals": 37, "K": 5, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 8, "alg": "alg2", "time": 0.005341315789050178, "value": 2994.4337309507914, "tau": 167.72727272727272, "stats": {"n_D1_evals": 25, "K": 2, "n_B0": 10}}
+{"family": "catA2", "n": 41, "seed": 9, "alg": "alg2", "time": 0.0048314833326176514, "value": 4271.694306624579, "tau": 202.72727272727272, "stats": {"n_D1_evals": 21, "K": 0, "n_B0": 10}}
+{"family": "catA2", "n": 81, "seed": 0, "alg": "alg2", "time": 0.023235088886900082, "value": 5628.915810431822, "tau": 335.42857142857144, "stats": {"n_D1_evals": 43, "K": 1, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 1, "alg": "alg2", "time": 0.027972125011729077, "value": 8857.936648124765, "tau": 295.42857142857144, "stats": {"n_D1_evals": 47, "K": 2, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 2, "alg": "alg2", "time": 0.027581025002291426, "value": 5151.9422284854645, "tau": 326.42857142857144, "stats": {"n_D1_evals": 45, "K": 2, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 3, "alg": "alg2", "time": 0.0219603999867104, "value": 5697.603166996279, "tau": 322.42857142857144, "stats": {"n_D1_evals": 43, "K": 1, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 4, "alg": "alg2", "time": 0.027462300000479445, "value": 4996.914485858738, "tau": 339.42857142857144, "stats": {"n_D1_evals": 43, "K": 1, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 5, "alg": "alg2", "time": 0.024763522216946714, "value": 8268.598782362209, "tau": 321.42857142857144, "stats": {"n_D1_evals": 43, "K": 1, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 6, "alg": "alg2", "time": 0.024092844454571605, "value": 6150.463844580507, "tau": 308.42857142857144, "stats": {"n_D1_evals": 43, "K": 1, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 7, "alg": "alg2", "time": 0.02644382498692721, "value": 8249.940484622679, "tau": 299.42857142857144, "stats": {"n_D1_evals": 45, "K": 2, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 8, "alg": "alg2", "time": 0.026882487494731322, "value": 5473.807884637918, "tau": 300.42857142857144, "stats": {"n_D1_evals": 43, "K": 1, "n_B0": 20}}
+{"family": "catA2", "n": 81, "seed": 9, "alg": "alg2", "time": 0.025373487515025772, "value": 8973.912448749996, "tau": 267.42857142857144, "stats": {"n_D1_evals": 43, "K": 1, "n_B0": 20}}
+{"family": "catA2", "n": 161, "seed": 0, "alg": "alg2", "time": 0.16161339997779578, "value": 11280.914307045874, "tau": 595.7317073170732, "stats": {"n_D1_evals": 85, "K": 2, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 1, "alg": "alg2", "time": 0.16513209999538958, "value": 11720.324457317201, "tau": 584.7317073170732, "stats": {"n_D1_evals": 85, "K": 2, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 2, "alg": "alg2", "time": 0.1446200999780558, "value": 10317.110667389474, "tau": 681.7317073170732, "stats": {"n_D1_evals": 85, "K": 2, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 3, "alg": "alg2", "time": 0.14840750000439584, "value": 9687.094447044867, "tau": 593.7317073170732, "stats": {"n_D1_evals": 83, "K": 1, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 4, "alg": "alg2", "time": 0.15151270001661032, "value": 9802.840665656751, "tau": 609.7317073170732, "stats": {"n_D1_evals": 83, "K": 1, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 5, "alg": "alg2", "time": 0.1532413000240922, "value": 12784.872854650332, "tau": 592.7317073170732, "stats": {"n_D1_evals": 83, "K": 1, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 6, "alg": "alg2", "time": 0.1451095499796793, "value": 12820.677044817015, "tau": 688.7317073170732, "stats": {"n_D1_evals": 85, "K": 2, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 7, "alg": "alg2", "time": 0.15279119997285306, "value": 13329.57290114405, "tau": 595.7317073170732, "stats": {"n_D1_evals": 81, "K": 0, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 8, "alg": "alg2", "time": 0.14639680000254884, "value": 9234.61966755783, "tau": 670.7317073170732, "stats": {"n_D1_evals": 83, "K": 1, "n_B0": 40}}
+{"family": "catA2", "n": 161, "seed": 9, "alg": "alg2", "time": 0.14380999997956678, "value": 8442.117699268705, "tau": 644.7317073170732, "stats": {"n_D1_evals": 83, "K": 1, "n_B0": 40}}
+{"family": "catA2", "n": 321, "seed": 0, "alg": "alg2", "time": 0.8366595000261441, "value": 26535.58279116006, "tau": 1185.3703703703704, "stats": {"n_D1_evals": 163, "K": 1, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 1, "alg": "alg2", "time": 0.8246999999973923, "value": 21501.321156968803, "tau": 1299.3703703703704, "stats": {"n_D1_evals": 167, "K": 2, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 2, "alg": "alg2", "time": 0.8125779000110924, "value": 25966.49496186092, "tau": 1301.3703703703704, "stats": {"n_D1_evals": 163, "K": 1, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 3, "alg": "alg2", "time": 0.7702021000441164, "value": 22665.129660575803, "tau": 1196.3703703703704, "stats": {"n_D1_evals": 161, "K": 0, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 4, "alg": "alg2", "time": 0.7503341999836266, "value": 17009.747095106923, "tau": 1367.3703703703704, "stats": {"n_D1_evals": 161, "K": 0, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 5, "alg": "alg2", "time": 0.8154396000318229, "value": 20745.73162831496, "tau": 1182.3703703703704, "stats": {"n_D1_evals": 165, "K": 2, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 6, "alg": "alg2", "time": 0.8370565000222996, "value": 19629.440268810667, "tau": 1170.3703703703704, "stats": {"n_D1_evals": 161, "K": 0, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 7, "alg": "alg2", "time": 0.8395906999940053, "value": 19838.257191393957, "tau": 1168.3703703703704, "stats": {"n_D1_evals": 169, "K": 3, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 8, "alg": "alg2", "time": 0.9124449000228196, "value": 24408.39945126075, "tau": 1236.3703703703704, "stats": {"n_D1_evals": 163, "K": 1, "n_B0": 80}}
+{"family": "catA2", "n": 321, "seed": 9, "alg": "alg2", "time": 0.7931469000177458, "value": 20244.072475247103, "tau": 1270.3703703703704, "stats": {"n_D1_evals": 161, "K": 0, "n_B0": 80}}
+{"family": "catA2", "n": 641, "seed": 0, "alg": "alg2", "time": 3.96309159998782, "value": 41145.97406418748, "tau": 2399.186335403727, "stats": {"n_D1_evals": 321, "K": 0, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 1, "alg": "alg2", "time": 3.7746334999101236, "value": 37328.878854983, "tau": 2511.186335403727, "stats": {"n_D1_evals": 323, "K": 1, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 2, "alg": "alg2", "time": 3.7981351000489667, "value": 41125.42043054927, "tau": 2354.186335403727, "stats": {"n_D1_evals": 321, "K": 0, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 3, "alg": "alg2", "time": 4.128267200081609, "value": 46881.07140124528, "tau": 2248.186335403727, "stats": {"n_D1_evals": 323, "K": 1, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 4, "alg": "alg2", "time": 4.1730456000659615, "value": 40613.75851244519, "tau": 2361.186335403727, "stats": {"n_D1_evals": 321, "K": 0, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 5, "alg": "alg2", "time": 4.239344200002961, "value": 42019.231500475194, "tau": 2521.186335403727, "stats": {"n_D1_evals": 323, "K": 1, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 6, "alg": "alg2", "time": 4.145088599994779, "value": 41705.71617961057, "tau": 2447.186335403727, "stats": {"n_D1_evals": 323, "K": 1, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 7, "alg": "alg2", "time": 4.271395200048573, "value": 38182.71682148384, "tau": 2492.186335403727, "stats": {"n_D1_evals": 325, "K": 2, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 8, "alg": "alg2", "time": 4.327150699915364, "value": 39631.48526404913, "tau": 2332.186335403727, "stats": {"n_D1_evals": 325, "K": 2, "n_B0": 160}}
+{"family": "catA2", "n": 641, "seed": 9, "alg": "alg2", "time": 4.00259739998728, "value": 39698.869964984246, "tau": 2413.186335403727, "stats": {"n_D1_evals": 321, "K": 0, "n_B0": 160}}
+{"family": "catA2", "n": 1281, "seed": 0, "alg": "alg2", "time": 17.620965199894272, "value": 85051.1198714109, "tau": 4787.093457943925, "stats": {"n_D1_evals": 641, "K": 0, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 1, "alg": "alg2", "time": 19.13213959999848, "value": 80520.42642833345, "tau": 4840.093457943925, "stats": {"n_D1_evals": 643, "K": 1, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 2, "alg": "alg2", "time": 18.28509939997457, "value": 76156.21829835721, "tau": 4795.093457943925, "stats": {"n_D1_evals": 643, "K": 1, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 3, "alg": "alg2", "time": 18.22820120002143, "value": 82994.32380436416, "tau": 4704.093457943925, "stats": {"n_D1_evals": 641, "K": 0, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 4, "alg": "alg2", "time": 17.70072999992408, "value": 76708.7633940092, "tau": 5061.093457943925, "stats": {"n_D1_evals": 643, "K": 1, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 5, "alg": "alg2", "time": 17.766172099974938, "value": 82217.59406803221, "tau": 4747.093457943925, "stats": {"n_D1_evals": 641, "K": 0, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 6, "alg": "alg2", "time": 19.11738069995772, "value": 82886.54441075734, "tau": 4820.093457943925, "stats": {"n_D1_evals": 641, "K": 0, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 7, "alg": "alg2", "time": 36.733457099995576, "value": 70505.78046893398, "tau": 4972.093457943925, "stats": {"n_D1_evals": 641, "K": 0, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 8, "alg": "alg2", "time": 47.23660529998597, "value": 72558.8434352386, "tau": 4770.093457943925, "stats": {"n_D1_evals": 641, "K": 0, "n_B0": 320}}
+{"family": "catA2", "n": 1281, "seed": 9, "alg": "alg2", "time": 47.70300869992934, "value": 80009.73270050023, "tau": 4864.093457943925, "stats": {"n_D1_evals": 643, "K": 1, "n_B0": 320}}
